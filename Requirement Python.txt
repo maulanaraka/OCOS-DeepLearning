@@ -1,0 +1,48 @@
+Requirement Python:
+
+fastapi
+uvicorn
+pydantic
+openai
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+spacy
+networkx
+aiofiles
+asyncio
+
+Bash:
+pip install fastapi uvicorn pydantic openai numpy scikit-learn sentence-transformers faiss-cpu spacy networkx aiofiles asyncio
+
+Jupyter:
+!pip install fastapi uvicorn pydantic openai numpy scikit-learn sentence-transformers faiss-cpu spacy networkx aiofiles asyncio
+
+
+KNOWLEDGE GRAPGH
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+import networkx as nx
+import json
+import spacy
+import openai
+from typing import List, Dict, Any, Tuple
+import re
+from collections import defaultdict
+
+SEMANTIC SIMILIARITY
+import json
+import numpy as np
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+import openai
+from sklearn.metrics.pairwise import cosine_similarity
+from sentence_transformers import SentenceTransformer
+import faiss
+import pickle
+import os
+from typing import List, Dict, Any
+import asyncio

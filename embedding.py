@@ -22,7 +22,7 @@ for file in csv_files:
     texts = df.astype(str).agg(' '.join, axis=1).tolist()
     texts = [preprocess_text(t) for t in texts]
     all_texts.extend(texts)
-
+# print(all_texts)
 # Load Indonesian embedding model (or fallback to multilingual if not available)
 try:
     model = SentenceTransformer('indobenchmark/indobert-base-p1')

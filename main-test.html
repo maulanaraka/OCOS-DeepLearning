@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPS Indonesia RAG Systems</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.25);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+        }
+        .chat-message {
+            animation: fadeInUp 0.5s ease-out;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .loading-dots {
+            display: inline-block;
+        }
+        .loading-dots::after {
+            content: '';
+            display: inline-block;
+            animation: dots 1.5s infinite;
+        }
+        @keyframes dots {
+            0%, 20% { content: ''; }
+            40% { content: '.'; }
+            60% { content: '..'; }
+            80%, 100% { content: '...'; }
+        }
+        .similarity-bar {
+            background: linear-gradient(90deg, #10b981 0%, #3b82f6 50%, #ef4444 100%);
+            height: 4px;
+            border-radius: 2px;
+        }
+        .reasoning-path {
+            border-left: 3px solid #8b5cf6;
+            padding-left: 1rem;
+            margin-left: 0.5rem;
+        }
+        .entity-tag {
+            background: linear-gradient(45deg, #3b82f6, #8b5cf6);
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <div class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-white mb-4">
+                <i class="fas fa-chart-bar mr-3"></i>
+                BPS Indonesia RAG Systems
+            </h1>
+            <p class="text-blue-100 text-lg">
+                Sistem Tanya Jawab Berbasis AI untuk Data Statistik Indonesia
+            </p>
+        </div>
+
+        <div class="flex justify-center mb-8">
+            <div class="glass-effect rounded-lg p-6">
+                <div class="flex space-x-4">
+                    <button id="semanticBtn" class="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-semibold active-system">
+                        <i class="fas fa-vector-square mr-2"></i>
+                        Semantic Similarity RAG
+                    </button>
+                    <button id="kgBtn" class="px-6 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors font-semibold">
+                        <i class="fas fa-project-diagram mr-2"></i>
+                        Knowledge Graph RAG
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="max-w-4xl mx-auto">
+            <div class="glass-effect rounded-lg p-6 mb-6 h-96 overflow-y-auto" id="chatContainer">
+                <div class="text-center text-gray-300 mt-20" id="welcomeMessage">
+                    <i class="fas fa-comments text-6xl mb-4"></i>
+                    <p class="text-lg">Mulai bertanya tentang data statistik BPS Indonesia</p>
+                    <p class="text-sm mt-2">Contoh: "Berapa jumlah penduduk DKI Jakarta?" atau "Provinsi mana yang memiliki tingkat pengangguran tertinggi?"</p>
+                </div>
+            </div>
+
+            <div class="glass-effect rounded-lg p-6">
+                <div class="flex space-x-4">
+                    <input type="text" id="questionInput" placeholder="Ketik pertanyaan Anda tentang data BPS Indonesia..." 
+                           class="flex-1 p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <button id="sendBtn" class="px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors font-semibold">
+                        <i class="fas fa-paper-plane mr-2"></i>
+                        Kirim
+                    </button>
+                </div>
+                
+                <div class="mt-4">
+                    <p class="text-white text-sm mb-2">Pertanyaan Cepat:</p>
+                    <div class="flex flex-wrap gap-2">
+                        <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
+                            Jumlah penduduk Jakarta 2024
+                        </button>
+                        <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
+                            Tingkat pengangguran Jawa Barat
+                        </button>
+                        <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
+                            PDB per kapita tertinggi
+                        </button>
+                         <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
+                            Provinsi terpadat penduduk
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8 max-w-4xl mx-auto grid md:grid-cols-2 gap-6">
+            <div class="glass-effect rounded-lg p-6">
+                <h3 class="text-xl font-bold text-white mb-4">
+                    <i class="fas fa-vector-square mr-2"></i>
+                    Semantic Similarity RAG
+                </h3>
+                <ul class="text-blue-100 space-y-2">
+                    <li><i class="fas fa-check mr-2"></i>Pencarian berdasarkan kesamaan makna</li>
+                    <li><i class="fas fa-check mr-2"></i>Menggunakan vector embeddings</li>
+                    <li><i class="fas fa-check mr-2"></i>Cocok untuk pertanyaan umum</li>
+                    <li><i class="fas fa-check mr-2"></i>Setup mudah dan cepat</li>
+                </ul>
+            </div>
+            <div class="glass-effect rounded-lg p-6">
+                <h3 class="text-xl font-bold text-white mb-4">
+                    <i class="fas fa-project-diagram mr-2"></i>
+                    Knowledge Graph RAG
+                </h3>
+                 <ul class="text-purple-100 space-y-2">
+                    <li><i class="fas fa-check mr-2"></i>Pencarian berdasarkan relasi entitas</li>
+                    <li><i class="fas fa-check mr-2"></i>Reasoning path yang jelas</li>
+                    <li><i class="fas fa-check mr-2"></i>Cocok untuk pertanyaan kompleks</li>
+                    <li><i class="fas fa-check mr-2"></i>Hasil lebih presisi</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const API_ENDPOINTS = {
+            // MODIFIED: Pointing to the Flask backend endpoint
+            semantic: 'http://127.0.0.1:5000/ask',
+            // Unchanged: KG RAG is not implemented in the backend
+            kg: 'http://localhost:8001/query-kg'
+        };
+
+        // Global state
+        let currentSystem = 'semantic';
+        let isLoading = false;
+
+        // DOM elements
+        const chatContainer = document.getElementById('chatContainer');
+        const questionInput = document.getElementById('questionInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const semanticBtn = document.getElementById('semanticBtn');
+        const kgBtn = document.getElementById('kgBtn');
+        const quickQuestions = document.querySelectorAll('.quick-question');
+        const welcomeMessage = document.getElementById('welcomeMessage');
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            setupEventListeners();
+            clearChat();
+        });
+
+        function setupEventListeners() {
+            semanticBtn.addEventListener('click', () => switchSystem('semantic'));
+            kgBtn.addEventListener('click', () => switchSystem('kg'));
+            sendBtn.addEventListener('click', sendMessage);
+            questionInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter' && !isLoading) {
+                    sendMessage();
+                }
+            });
+            quickQuestions.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    questionInput.value = this.textContent.trim();
+                    sendMessage();
+                });
+            });
+        }
+
+        function switchSystem(system) {
+            currentSystem = system;
+            semanticBtn.classList.toggle('active-system', system === 'semantic');
+            kgBtn.classList.toggle('active-system', system === 'kg');
+            semanticBtn.style.background = system === 'semantic' ? '#2563eb' : '#6d28d9';
+            kgBtn.style.background = system === 'kg' ? '#7c3aed' : '#9333ea';
+            clearChat();
+        }
+
+        function clearChat() {
+            chatContainer.innerHTML = `
+                <div class="text-center text-gray-300 mt-20" id="welcomeMessage">
+                    <i class="fas fa-comments text-6xl mb-4"></i>
+                    <p class="text-lg">Mulai bertanya tentang data statistik BPS Indonesia</p>
+                    <p class="text-sm mt-2">Sistem aktif: <strong>${currentSystem === 'semantic' ? 'Semantic Similarity RAG' : 'Knowledge Graph RAG'}</strong></p>
+                </div>
+            `;
+        }
+
+        async function sendMessage() {
+            const question = questionInput.value.trim();
+            if (!question || isLoading) return;
+
+            isLoading = true;
+            updateSendButton(true);
+
+            const welcomeMsg = document.getElementById('welcomeMessage');
+            if (welcomeMsg) welcomeMsg.style.display = 'none';
+
+            addUserMessage(question);
+            questionInput.value = '';
+            const loadingId = addLoadingMessage();
+
+            try {
+                const response = await querySystem(question);
+                removeLoadingMessage(loadingId);
+                addSystemResponse(response);
+            } catch (error) {
+                removeLoadingMessage(loadingId);
+                addErrorMessage(error.message);
+            }
+
+            isLoading = false;
+            updateSendButton(false);
+        }
+        
+        // MODIFIED: This function now handles the real API call for 'semantic'
+        // and adapts the response for the UI.
+        async function querySystem(question) {
+            // If KG system is selected, use the mock response as its backend is not implemented.
+            if (currentSystem === 'kg') {
+                return getMockResponse(question);
+            }
+            
+            // For the 'semantic' system, call the real Flask backend.
+            const endpoint = API_ENDPOINTS.semantic;
+            const payload = { question: question }; // Backend expects a simple object
+
+            const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                const errorMessage = errorData.answer || `Error: Server responded with status ${response.status}`;
+                throw new Error(errorMessage);
+            }
+
+            const data = await response.json();
+
+            // Adapt the simple backend response to the complex structure the UI expects.
+            return {
+                question: question,
+                answer: data.answer, // The real answer from the Gemini AI
+                relevant_chunks: [], // No chunk data from this backend
+                relevant_entities: [],
+                reasoning_path: [],
+                metadata: { model: currentSystem, chunks_found: 0 }
+            };
+        }
+        
+        // Unchanged: Mock response is kept for the KG system
+        function getMockResponse(question) {
+            const lowerQuestion = question.toLowerCase();
+            if (lowerQuestion.includes('jakarta') || lowerQuestion.includes('penduduk')) {
+                return {
+                    question: question,
+                    answer: "Ini adalah respons MOCK untuk Knowledge Graph. Berdasarkan data BPS, DKI Jakarta memiliki jumlah penduduk 10.679.000 jiwa.",
+                    relevant_chunks: [],
+                    relevant_entities: ["DKI Jakarta", "Population_Data"],
+                    reasoning_path: [{ from: "DKI Jakarta", to: "DKI Jakarta_population_2024", relation: "has_population" }],
+                    metadata: { model: currentSystem, chunks_found: 1 }
+                };
+            }
+            return {
+                question: question,
+                answer: "Maaf, saya tidak dapat menemukan informasi spesifik untuk pertanyaan tersebut dalam Knowledge Graph yang tersedia.",
+                relevant_chunks: [],
+                relevant_entities: [],
+                reasoning_path: [],
+                metadata: { model: currentSystem, chunks_found: 0 }
+            };
+        }
+
+        function addUserMessage(message) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'chat-message mb-4';
+            messageDiv.innerHTML = `
+                <div class="flex justify-end">
+                    <div class="bg-blue-600 text-white rounded-lg px-4 py-2 max-w-xs lg:max-w-md">
+                        <div class="flex items-center mb-1">
+                            <i class="fas fa-user mr-2"></i>
+                            <span class="text-sm font-semibold">Anda</span>
+                        </div>
+                        <p>${message}</p>
+                    </div>
+                </div>
+            `;
+            chatContainer.appendChild(messageDiv);
+            scrollToBottom();
+        }
+
+        function addLoadingMessage() {
+            const loadingId = 'loading-' + Date.now();
+            const messageDiv = document.createElement('div');
+            messageDiv.id = loadingId;
+            messageDiv.className = 'chat-message mb-4';
+            messageDiv.innerHTML = `
+                <div class="flex justify-start">
+                    <div class="bg-gray-600 text-white rounded-lg px-4 py-2 max-w-xs lg:max-w-md">
+                        <div class="flex items-center mb-1">
+                            <i class="fas fa-robot mr-2"></i>
+                            <span class="text-sm font-semibold">${currentSystem === 'semantic' ? 'Semantic RAG' : 'Knowledge Graph RAG'}</span>
+                        </div>
+                        <p class="loading-dots">Sedang memproses</p>
+                    </div>
+                </div>
+            `;
+            chatContainer.appendChild(messageDiv);
+            scrollToBottom();
+            return loadingId;
+        }
+
+        function removeLoadingMessage(loadingId) {
+            const loadingMsg = document.getElementById(loadingId);
+            if (loadingMsg) loadingMsg.remove();
+        }
+
+        function addSystemResponse(response) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'chat-message mb-4';
+            
+            let detailsHtml = '';
+            if (response.relevant_chunks && response.relevant_chunks.length > 0) {
+                 detailsHtml = currentSystem === 'semantic' ? createSemanticDetails(response) : createKnowledgeGraphDetails(response);
+            } else if (response.relevant_entities && response.relevant_entities.length > 0) {
+                detailsHtml = createKnowledgeGraphDetails(response);
+            }
+
+            messageDiv.innerHTML = `
+                <div class="flex justify-start">
+                    <div class="bg-gray-700 text-white rounded-lg px-4 py-2 max-w-2xl">
+                        <div class="flex items-center mb-2">
+                            <i class="fas fa-robot mr-2"></i>
+                            <span class="text-sm font-semibold">${currentSystem === 'semantic' ? 'Semantic RAG' : 'Knowledge Graph RAG'}</span>
+                        </div>
+                        <div class="mb-3">
+                            <p class="text-gray-100">${response.answer}</p>
+                        </div>
+                        ${detailsHtml}
+                    </div>
+                </div>
+            `;
+            chatContainer.appendChild(messageDiv);
+            scrollToBottom();
+        }
+
+        function createSemanticDetails(response) {
+            if (!response.relevant_chunks || response.relevant_chunks.length === 0) {
+                return '<div class="text-xs text-gray-400 mt-2">Tidak ada analisis detail yang tersedia dari backend ini.</div>';
+            }
+            // ... (kode rendering detail tetap ada jika suatu saat backend mengirim data ini)
+            return ''; 
+        }
+
+        function createKnowledgeGraphDetails(response) {
+             let entitiesHtml = '';
+            if (response.relevant_entities && response.relevant_entities.length > 0) {
+                response.relevant_entities.forEach(entity => {
+                    entitiesHtml += `<span class="entity-tag px-2 py-1 text-xs text-white rounded-full mr-1 mb-1 inline-block">${entity}</span>`;
+                });
+            }
+
+            let reasoningHtml = '';
+            if (response.reasoning_path && response.reasoning_path.length > 0) {
+                 response.reasoning_path.forEach(step => {
+                    reasoningHtml += `<div class="text-xs text-gray-300 mb-1"><i class="fas fa-arrow-right mr-1 text-purple-400"></i>${step.from} --[${step.relation}]--> ${step.to}</div>`;
+                });
+            }
+
+            return `
+                <details class="mt-2">
+                    <summary class="text-xs text-purple-300 cursor-pointer hover:text-purple-200"><i class="fas fa-project-diagram mr-1"></i>Detail Knowledge Graph</summary>
+                    <div class="mt-2">
+                        <div class="mb-2">
+                            <div class="text-xs text-gray-400 mb-1">Entitas yang ditemukan:</div>
+                            ${entitiesHtml || '<span class="text-xs text-gray-500">Tidak ada entitas ditemukan</span>'}
+                        </div>
+                        ${reasoningHtml ? `<div class="reasoning-path"><div class="text-xs text-gray-400 mb-1">Jalur reasoning:</div>${reasoningHtml}</div>` : ''}
+                    </div>
+                </details>
+            `;
+        }
+
+
+        function addErrorMessage(error) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'chat-message mb-4';
+            messageDiv.innerHTML = `
+                <div class="flex justify-start">
+                    <div class="bg-red-600 text-white rounded-lg px-4 py-2 max-w-xs lg:max-w-md">
+                        <div class="flex items-center mb-1">
+                            <i class="fas fa-exclamation-triangle mr-2"></i>
+                            <span class="text-sm font-semibold">Error</span>
+                        </div>
+                        <p class="text-sm">${error}</p>
+                    </div>
+                </div>
+            `;
+            chatContainer.appendChild(messageDiv);
+            scrollToBottom();
+        }
+
+        function updateSendButton(loading) {
+            sendBtn.disabled = loading;
+            if (loading) {
+                sendBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>';
+                sendBtn.classList.add('opacity-50');
+            } else {
+                sendBtn.innerHTML = '<i class="fas fa-paper-plane mr-2"></i>Kirim';
+                sendBtn.classList.remove('opacity-50');
+            }
+        }
+
+        function scrollToBottom() {
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+    </script>
+</body>
+</html>

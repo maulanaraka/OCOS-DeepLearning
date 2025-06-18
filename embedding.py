@@ -1,17 +1,11 @@
-import pandas as pd
-from sentence_transformers import SentenceTransformer
+from google import genai
+from google.genai import types
 
-# Baca file CSV
-df = pd.read_csv('Penduduk, Laju Pertumbuhan Penduduk, Distribusi Persentase Penduduk, Kepadatan Penduduk, dan Rasio Jenis Kelamin Penduduk Menurut Provinsi, 2020.csv')
+client = genai.Client(api_key="AIzaSyBGfprRY9PW9PED_C_XcqPAZwHatxfMkbo")
 
-# Gabungkan kolom yang ingin di-embed (misal: semua kolom jadi satu string per baris)
-texts = df.astype(str).agg(' '.join, axis=1).tolist()
-
-# Load model embedding
-model = SentenceTransformer('all-MiniLM-L6-v2')
-
-# Proses embedding
-embeddings = model.encode(texts)
-
-# embeddings sekarang adalah array vektor untuk tiap baris
-print(embeddings.shape)
+result = client.models.embed_content(
+        model="gemini-embedding-exp-03-07",
+        contents="What is the meaning of life?",
+        config=types.EmbedContentConfig(task_type="SEMANTIC_SIMILARITY")
+)
+print(result.embeddings)

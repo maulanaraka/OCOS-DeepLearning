@@ -44,3 +44,8 @@ index.add(embeddings)
 # Simpan index ke file
 faiss.write_index(index, 'faiss_index.idx')
 print(f'FAISS index saved to faiss_index.idx with {embeddings.shape[0]} vectors from {len(csv_files)} files')
+# Simpan teks ke file mapping (satu baris satu chunk)
+with open('faiss_texts.txt', 'w', encoding='utf-8') as f:
+    for t in all_texts:
+        f.write(t + '\n')
+print(f'Text mapping saved to faiss_texts.txt with {len(all_texts)} lines')

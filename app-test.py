@@ -6,33 +6,60 @@ import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
+from threading import Lock
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # Untuk testing lokal
+
+
 
 # --- Konfigurasi Kunci API Gemini ---
-api_key = "AIzaSyBGfprRY9PW9PED_C_XcqPAZwHatxfMkbo"  # GANTI DENGAN KUNCI API ANDA
-if not api_key:
-    raise ValueError("Kunci API Gemini tidak ditemukan. Harap atur dalam kode atau sebagai variabel lingkungan.")
-genai.configure(api_key=api_key)
-gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+try:
+    api_key = "AIzaSyBGfprRY9PW9PED_C_XcqPAZwHatxfMkbo" # GANTI DENGAN KUNCI API ANDA
+    if not api_key:
+        raise ValueError("Kunci API Gemini tidak ditemukan. Harap atur dalam kode atau sebagai variabel lingkungan.")
+    genai.configure(api_key=api_key)
+    gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+except Exception as e:
+    print(f"Error saat menginisialisasi klien Gemini: {e}")
+    gemini_model = None
 
 # --- Load FAISS index dan mapping teks ---
-faiss_index = faiss.read_index("bps_faiss.index")
+faiss_index = faiss.read_index("faiss_index.idx")
 with open("bps_faiss_texts.txt", encoding="utf-8") as f:
     texts = [line.strip() for line in f.readlines()]
 
-# --- Load SentenceTransformer ---
-embedder = SentenceTransformer('all-MiniLM-L6-v2')
+# --- Load SentenceTransformer sekali saja di awal ---
+embedder = None
+embedder_lock = Lock()
+def get_embedder():
+    global embedder
+    with embedder_lock:
+        if embedder is None:
+            embedder = SentenceTransformer('all-MiniLM-L6-v2')
+        return embedder
 
 @app.route("/")
 def index():
     """Menyajikan antarmuka pengguna utama dari file main.html."""
     return render_template('main.html')
 
+@app.route("/embed", methods=["POST"])
+def embed_text():
+    """Endpoint khusus untuk embed teks (bukan untuk query/ask)."""
+    data = request.get_json()
+    texts = data.get("texts", [])
+    if not texts or not isinstance(texts, list):
+        return jsonify({"error": "Input harus berupa list teks."}), 400
+    embedder = get_embedder()
+    embeddings = embedder.encode(texts).tolist()
+    return jsonify({"embeddings": embeddings})
+
 @app.route("/ask", methods=["POST"])
 def ask():
     """Menerima pertanyaan, mengirimkannya ke Gemini AI, dan mengembalikan jawabannya."""
+    if not gemini_model:
+        return jsonify({"answer": "Error: Klien Gemini AI tidak terinisialisasi. Periksa kunci API Anda."}), 500
     data = request.get_json()
     question = data.get("question", "")
     top_n = int(data.get("top_n", 5))
@@ -40,6 +67,7 @@ def ask():
     if not question:
         return jsonify({"answer": "Tidak ada pertanyaan yang diberikan."}), 400
 
+    embedder = get_embedder()
     # 1. Embed pertanyaan
     emb = embedder.encode([question]).astype('float32')
 
@@ -58,8 +86,7 @@ def ask():
         return jsonify({"answer": answer}), 500
 
     return jsonify({
-        "answer": answer,
-        "context": context_chunks
+        "answer": answer
     })
 
 if __name__ == "__main__":

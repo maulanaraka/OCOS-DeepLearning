@@ -1,0 +1,457 @@
+Pada tahun 2024, di provinsi Aceh, terdapat 31740.0 pernikahan, 1192 kasus cerai talak, 4739 cerai gugat, dengan total 5931 perceraian.
+Pada tahun 2024, di provinsi Sumatera Utara, terdapat 66682.0 pernikahan, 2891 kasus cerai talak, 12861 cerai gugat, dengan total 15752 perceraian.
+Pada tahun 2024, di provinsi Sumatera Barat, terdapat 36486.0 pernikahan, 1706 kasus cerai talak, 6446 cerai gugat, dengan total 8152 perceraian.
+Pada tahun 2024, di provinsi Riau, terdapat 38790.0 pernikahan, 1697 kasus cerai talak, 6388 cerai gugat, dengan total 8085 perceraian.
+Pada tahun 2024, di provinsi Jambi, terdapat 21590.0 pernikahan, 906 kasus cerai talak, 3576 cerai gugat, dengan total 4482 perceraian.
+Pada tahun 2024, di provinsi Sumatera Selatan, terdapat 50492.0 pernikahan, 2042 kasus cerai talak, 7939 cerai gugat, dengan total 9981 perceraian.
+Pada tahun 2024, di provinsi Bengkulu, terdapat 13113.0 pernikahan, 743 kasus cerai talak, 2694 cerai gugat, dengan total 3437 perceraian.
+Pada tahun 2024, di provinsi Lampung, terdapat 50230.0 pernikahan, 2575 kasus cerai talak, 11896 cerai gugat, dengan total 14471 perceraian.
+Pada tahun 2024, di provinsi Kepulauan Bangka Belitung, terdapat 7973.0 pernikahan, 440 kasus cerai talak, 1782 cerai gugat, dengan total 2222 perceraian.
+Pada tahun 2024, di provinsi Kepulauan Riau, terdapat 11533.0 pernikahan, 750 kasus cerai talak, 2676 cerai gugat, dengan total 3426 perceraian.
+Pada tahun 2024, di provinsi DKI Jakarta, terdapat 40458.0 pernikahan, 2800 kasus cerai talak, 9349 cerai gugat, dengan total 12149 perceraian.
+Pada tahun 2024, di provinsi Jawa Barat, terdapat 292969.0 pernikahan, 19874 kasus cerai talak, 68968 cerai gugat, dengan total 88842 perceraian.
+Pada tahun 2024, di provinsi Jawa Tengah, terdapat 233204.0 pernikahan, 13786 kasus cerai talak, 50783 cerai gugat, dengan total 64569 perceraian.
+Pada tahun 2024, di provinsi DI Yogyakarta, terdapat 18920.0 pernikahan, 980 kasus cerai talak, 3683 cerai gugat, dengan total 4663 perceraian.
+Pada tahun 2024, di provinsi Jawa Timur, terdapat 271406.0 pernikahan, 18979 kasus cerai talak, 58679 cerai gugat, dengan total 77658 perceraian.
+Pada tahun 2024, di provinsi Banten, terdapat 63441.0 pernikahan, 2617 kasus cerai talak, 10839 cerai gugat, dengan total 13456 perceraian.
+Pada tahun 2024, di provinsi Bali, terdapat 3189.0 pernikahan, 235 kasus cerai talak, 806 cerai gugat, dengan total 1041 perceraian.
+Pada tahun 2024, di provinsi Nusa Tenggara Barat, terdapat 25424.0 pernikahan, 1266 kasus cerai talak, 5408 cerai gugat, dengan total 6674 perceraian.
+Pada tahun 2024, di provinsi Nusa Tenggara Timur, terdapat 2775.0 pernikahan, 139 kasus cerai talak, 346 cerai gugat, dengan total 485 perceraian.
+Pada tahun 2024, di provinsi Kalimantan Barat, terdapat 21064.0 pernikahan, 835 kasus cerai talak, 3800 cerai gugat, dengan total 4635 perceraian.
+Pada tahun 2024, di provinsi Kalimantan Tengah, terdapat 13688.0 pernikahan, 640 kasus cerai talak, 2400 cerai gugat, dengan total 3040 perceraian.
+Pada tahun 2024, di provinsi Kalimantan Selatan, terdapat 25069.0 pernikahan, 1238 kasus cerai talak, 5139 cerai gugat, dengan total 6377 perceraian.
+Pada tahun 2024, di provinsi Kalimantan Timur, terdapat 20940.0 pernikahan, 1518 kasus cerai talak, 4698 cerai gugat, dengan total 6216 perceraian.
+Pada tahun 2024, di provinsi Kalimantan Utara, terdapat 2899.0 pernikahan, 205 kasus cerai talak, 726 cerai gugat, dengan total 931 perceraian.
+Pada tahun 2024, di provinsi Sulawesi Utara, terdapat 6025.0 pernikahan, 368 kasus cerai talak, 1586 cerai gugat, dengan total 1954 perceraian.
+Pada tahun 2024, di provinsi Sulawesi Tengah, terdapat 15349.0 pernikahan, 740 kasus cerai talak, 3122 cerai gugat, dengan total 3862 perceraian.
+Pada tahun 2024, di provinsi Sulawesi Selatan, terdapat 48718.0 pernikahan, 2302 kasus cerai talak, 9647 cerai gugat, dengan total 11949 perceraian.
+Pada tahun 2024, di provinsi Sulawesi Tenggara, terdapat 14126.0 pernikahan, 671 kasus cerai talak, 2745 cerai gugat, dengan total 3416 perceraian.
+Pada tahun 2024, di provinsi Gorontalo, terdapat 8093.0 pernikahan, 354 kasus cerai talak, 1665 cerai gugat, dengan total 2019 perceraian.
+Pada tahun 2024, di provinsi Sulawesi Barat, terdapat 6402.0 pernikahan, 296 kasus cerai talak, 1007 cerai gugat, dengan total 1303 perceraian.
+Pada tahun 2024, di provinsi Maluku, terdapat 4464.0 pernikahan, 170 kasus cerai talak, 453 cerai gugat, dengan total 623 perceraian.
+Pada tahun 2024, di provinsi Maluku Utara, terdapat 5724.0 pernikahan, 323 kasus cerai talak, 937 cerai gugat, dengan total 1260 perceraian.
+Pada tahun 2024, di provinsi Papua Barat, terdapat 1038.0 pernikahan, 120 kasus cerai talak, 367 cerai gugat, dengan total 487 perceraian.
+Pada tahun 2024, di provinsi Papua Barat Daya, terdapat 1003.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2024, di provinsi Papua, terdapat 1473.0 pernikahan, 254 kasus cerai talak, 806 cerai gugat, dengan total 1060 perceraian.
+Pada tahun 2024, di provinsi Papua Selatan, terdapat 929.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2024, di provinsi Papua Tengah, terdapat 825.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2024, di provinsi Papua Pegunungan, terdapat 58.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2024, di provinsi Indonesia, terdapat 1478302.0 pernikahan, 85652 kasus cerai talak, 308956 cerai gugat, dengan total 394608 perceraian.
+Pada tahun 2024, di provinsi nan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi Catatan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi <sup>1</sup>Termasuk bedolan (nikah di luar KUA)/Including registration conducted outside the Religious Affairs Office (KUA), terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi <sup>2</sup>Hanya untuk yang beragama Islam/Applies only for moslem, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi <sup>3</sup>Data perceraian yang telah diputus oleh pengadilan dan akta cerainya telah terbit/Divorce data that has been decided by the court and the divorce certificate has been issued, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi Data Perceraian Provinsi Papua Barat mencakup Provinsi Papua Barat Daya/Divorce data of Papua Barat Province included Papua Barat Daya Province, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2024, di provinsi Data Perceraian Provinsi Papua mencakup Provinsi Papua Selatan, Papua Tengah, dan Papua Pegunungan/Divorce data of Papua Province included Papua Selatan, Papua Tengah, and Papua Pegunungan Provinces, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2020, di provinsi Aceh, terdapat 42298.0 pernikahan, 1093 kasus cerai talak, 3078 cerai gugat, dengan total 4171 perceraian.
+Pada tahun 2020, di provinsi Sumatera Utara, terdapat 78892.0 pernikahan, 2661 kasus cerai talak, 10148 cerai gugat, dengan total 12809 perceraian.
+Pada tahun 2020, di provinsi Sumatera Barat, terdapat 43136.0 pernikahan, 1458 kasus cerai talak, 3833 cerai gugat, dengan total 5291 perceraian.
+Pada tahun 2020, di provinsi Riau, terdapat 44791.0 pernikahan, 1637 kasus cerai talak, 4615 cerai gugat, dengan total 6252 perceraian.
+Pada tahun 2020, di provinsi Jambi, terdapat 24993.0 pernikahan, 947 kasus cerai talak, 2936 cerai gugat, dengan total 3883 perceraian.
+Pada tahun 2020, di provinsi Sumatera Selatan, terdapat 58749.0 pernikahan, 1535 kasus cerai talak, 4867 cerai gugat, dengan total 6402 perceraian.
+Pada tahun 2020, di provinsi Bengkulu, terdapat 14358.0 pernikahan, 808 kasus cerai talak, 2296 cerai gugat, dengan total 3104 perceraian.
+Pada tahun 2020, di provinsi Lampung, terdapat 58423.0 pernikahan, 2469 kasus cerai talak, 8758 cerai gugat, dengan total 11227 perceraian.
+Pada tahun 2020, di provinsi Kepulauan Bangka Belitung, terdapat 8806.0 pernikahan, 510 kasus cerai talak, 1491 cerai gugat, dengan total 2001 perceraian.
+Pada tahun 2020, di provinsi Kepulauan Riau, terdapat 12437.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2020, di provinsi DKI Jakarta, terdapat 50776.0 pernikahan, 3038 kasus cerai talak, 9060 cerai gugat, dengan total 12098 perceraian.
+Pada tahun 2020, di provinsi Jawa Barat, terdapat 372723.0 pernikahan, 10826 kasus cerai talak, 26677 cerai gugat, dengan total 37503 perceraian.
+Pada tahun 2020, di provinsi Jawa Tengah, terdapat 271452.0 pernikahan, 16808 kasus cerai talak, 48947 cerai gugat, dengan total 65755 perceraian.
+Pada tahun 2020, di provinsi DI Yogyakarta, terdapat 26030.0 pernikahan, 1344 kasus cerai talak, 3944 cerai gugat, dengan total 5288 perceraian.
+Pada tahun 2020, di provinsi Jawa Timur, terdapat 316103.0 pernikahan, 18581 kasus cerai talak, 43289 cerai gugat, dengan total 61870 perceraian.
+Pada tahun 2020, di provinsi Banten, terdapat 79252.0 pernikahan, 2302 kasus cerai talak, 8099 cerai gugat, dengan total 10401 perceraian.
+Pada tahun 2020, di provinsi Bali, terdapat 3115.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2020, di provinsi Nusa Tenggara Barat, terdapat 34657.0 pernikahan, 1275 kasus cerai talak, 3580 cerai gugat, dengan total 4855 perceraian.
+Pada tahun 2020, di provinsi Nusa Tenggara Timur, terdapat 3533.0 pernikahan, 155 kasus cerai talak, 296 cerai gugat, dengan total 451 perceraian.
+Pada tahun 2020, di provinsi Kalimantan Barat, terdapat 23025.0 pernikahan, 846 kasus cerai talak, 3403 cerai gugat, dengan total 4249 perceraian.
+Pada tahun 2020, di provinsi Kalimantan Tengah, terdapat 13941.0 pernikahan, 405 kasus cerai talak, 1190 cerai gugat, dengan total 1595 perceraian.
+Pada tahun 2020, di provinsi Kalimantan Selatan, terdapat 27401.0 pernikahan, 824 kasus cerai talak, 2586 cerai gugat, dengan total 3410 perceraian.
+Pada tahun 2020, di provinsi Kalimantan Timur, terdapat 25030.0 pernikahan, 1775 kasus cerai talak, 5237 cerai gugat, dengan total 7012 perceraian.
+Pada tahun 2020, di provinsi Kalimantan Utara, terdapat 4782.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2020, di provinsi Sulawesi Utara, terdapat 7369.0 pernikahan, 341 kasus cerai talak, 957 cerai gugat, dengan total 1298 perceraian.
+Pada tahun 2020, di provinsi Sulawesi Tengah, terdapat 18236.0 pernikahan, 425 kasus cerai talak, 1185 cerai gugat, dengan total 1610 perceraian.
+Pada tahun 2020, di provinsi Sulawesi Selatan, terdapat 61904.0 pernikahan, 2991 kasus cerai talak, 9706 cerai gugat, dengan total 12697 perceraian.
+Pada tahun 2020, di provinsi Sulawesi Tenggara, terdapat 16058.0 pernikahan, 699 kasus cerai talak, 2069 cerai gugat, dengan total 2768 perceraian.
+Pada tahun 2020, di provinsi Gorontalo, terdapat 10139.0 pernikahan, 318 kasus cerai talak, 1134 cerai gugat, dengan total 1452 perceraian.
+Pada tahun 2020, di provinsi Sulawesi Barat, terdapat 8366.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2020, di provinsi Maluku, terdapat 6571.0 pernikahan, 71 kasus cerai talak, 154 cerai gugat, dengan total 225 perceraian.
+Pada tahun 2020, di provinsi Maluku Utara, terdapat 6981.0 pernikahan, 136 kasus cerai talak, 340 cerai gugat, dengan total 476 perceraian.
+Pada tahun 2020, di provinsi Papua Barat, terdapat 1984.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2020, di provinsi Papua, terdapat 4035.0 pernikahan, 429 kasus cerai talak, 1095 cerai gugat, dengan total 1524 perceraian.
+Pada tahun 2020, di provinsi Indonesia, terdapat 1780346.0 pernikahan, 76707 kasus cerai talak, 214970 cerai gugat, dengan total 291677 perceraian.
+Pada tahun 2020, di provinsi nan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2020, di provinsi Catatan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2020, di provinsi 1Termasuk bedolan (nikah di luar KUA)/Including registration conducted outside the Religious Affairs Office (KUA)2Hanya untuk yang beragama Islam/Applies only for moslem5Data cerai 2020 masih bergabung dengan Provinsi Riau/Data of divorces 2020 were included in Riau Province6Data cerai 2020 masih bergabung dengan Provinsi Nusa Tenggara Barat/Data of divorces 2020 were included in Nusa Tenggara Barat Province7Data cerai 2020 masih bergabung dengan Provinsi Kalimantan Timur/Data of divorces 2020 were included in Kalimantan Timur Province8Data cerai 2020 masih bergabung dengan Provinsi Sulawesi Selatan/Data of divorces 2020 were included in Sulawesi Selatan Province9Data cerai 2020 masih bergabung dengan Provinsi Papua/Data of divorces 2020 were included in Papua Province, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Aceh, terdapat 40931.0 pernikahan, 1469.0 kasus cerai talak, 4973.0 cerai gugat, dengan total 6442.0 perceraian.
+Pada tahun 2021, di provinsi Sumatera Utara, terdapat 84202.0 pernikahan, 3553.0 kasus cerai talak, 13717.0 cerai gugat, dengan total 17270.0 perceraian.
+Pada tahun 2021, di provinsi Sumatera Barat, terdapat 45073.0 pernikahan, 2372.0 kasus cerai talak, 6999.0 cerai gugat, dengan total 9371.0 perceraian.
+Pada tahun 2021, di provinsi Riau, terdapat 45046.0 pernikahan, 3198.0 kasus cerai talak, 9524.0 cerai gugat, dengan total 12722.0 perceraian.
+Pada tahun 2021, di provinsi Jambi, terdapat 25837.0 pernikahan, 1147.0 kasus cerai talak, 3853.0 cerai gugat, dengan total 5000.0 perceraian.
+Pada tahun 2021, di provinsi Sumatera Selatan, terdapat 59987.0 pernikahan, 2473.0 kasus cerai talak, 8719.0 cerai gugat, dengan total 11192.0 perceraian.
+Pada tahun 2021, di provinsi Bengkulu, terdapat 15064.0 pernikahan, 912.0 kasus cerai talak, 2933.0 cerai gugat, dengan total 3845.0 perceraian.
+Pada tahun 2021, di provinsi Lampung, terdapat 59587.0 pernikahan, 3119.0 kasus cerai talak, 11914.0 cerai gugat, dengan total 15033.0 perceraian.
+Pada tahun 2021, di provinsi Kepulauan Bangka Belitung, terdapat 8711.0 pernikahan, 577.0 kasus cerai talak, 1900.0 cerai gugat, dengan total 2477.0 perceraian.
+Pada tahun 2021, di provinsi Kepulauan Riau, terdapat 11541.0 pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi DKI Jakarta, terdapat 47724.0 pernikahan, 3959.0 kasus cerai talak, 12058.0 cerai gugat, dengan total 16017.0 perceraian.
+Pada tahun 2021, di provinsi Jawa Barat, terdapat 346484.0 pernikahan, 23971.0 kasus cerai talak, 74117.0 cerai gugat, dengan total 98088.0 perceraian.
+Pada tahun 2021, di provinsi Jawa Tengah, terdapat 277060.0 pernikahan, 18802.0 kasus cerai talak, 56707.0 cerai gugat, dengan total 75509.0 perceraian.
+Pada tahun 2021, di provinsi DI Yogyakarta, terdapat 21983.0 pernikahan, 1467.0 kasus cerai talak, 4166.0 cerai gugat, dengan total 5633.0 perceraian.
+Pada tahun 2021, di provinsi Jawa Timur, terdapat 298543.0 pernikahan, 25113.0 kasus cerai talak, 63122.0 cerai gugat, dengan total 88235.0 perceraian.
+Pada tahun 2021, di provinsi Banten, terdapat 77058.0 pernikahan, 3323.0 kasus cerai talak, 12345.0 cerai gugat, dengan total 15668.0 perceraian.
+Pada tahun 2021, di provinsi Bali, terdapat 2912.0 pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Nusa Tenggara Barat, terdapat 35651.0 pernikahan, 2040.0 kasus cerai talak, 6945.0 cerai gugat, dengan total 8985.0 perceraian.
+Pada tahun 2021, di provinsi Nusa Tenggara Timur, terdapat 3424.0 pernikahan, 135.0 kasus cerai talak, 301.0 cerai gugat, dengan total 436.0 perceraian.
+Pada tahun 2021, di provinsi Kalimantan Barat, terdapat 23586.0 pernikahan, 1126.0 kasus cerai talak, 4099.0 cerai gugat, dengan total 5225.0 perceraian.
+Pada tahun 2021, di provinsi Kalimantan Tengah, terdapat 14136.0 pernikahan, 810.0 kasus cerai talak, 2674.0 cerai gugat, dengan total 3484.0 perceraian.
+Pada tahun 2021, di provinsi Kalimantan Selatan, terdapat 27417.0 pernikahan, 1543.0 kasus cerai talak, 6039.0 cerai gugat, dengan total 7582.0 perceraian.
+Pada tahun 2021, di provinsi Kalimantan Timur, terdapat 22386.0 pernikahan, 1996.0 kasus cerai talak, 6005.0 cerai gugat, dengan total 8001.0 perceraian.
+Pada tahun 2021, di provinsi Kalimantan Utara, terdapat 3547.0 pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Sulawesi Utara, terdapat 7533.0 pernikahan, 440.0 kasus cerai talak, 1444.0 cerai gugat, dengan total 1884.0 perceraian.
+Pada tahun 2021, di provinsi Sulawesi Tengah, terdapat 16189.0 pernikahan, 940.0 kasus cerai talak, 3019.0 cerai gugat, dengan total 3959.0 perceraian.
+Pada tahun 2021, di provinsi Sulawesi Selatan, terdapat 64396.0 pernikahan, 3406.0 kasus cerai talak, 12169.0 cerai gugat, dengan total 15575.0 perceraian.
+Pada tahun 2021, di provinsi Sulawesi Tenggara, terdapat 18061.0 pernikahan, 868.0 kasus cerai talak, 2954.0 cerai gugat, dengan total 3822.0 perceraian.
+Pada tahun 2021, di provinsi Gorontalo, terdapat 9987.0 pernikahan, 524.0 kasus cerai talak, 1894.0 cerai gugat, dengan total 2418.0 perceraian.
+Pada tahun 2021, di provinsi Sulawesi Barat, terdapat 8817.0 pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Maluku, terdapat 5933.0 pernikahan, 212.0 kasus cerai talak, 547.0 cerai gugat, dengan total 759.0 perceraian.
+Pada tahun 2021, di provinsi Maluku Utara, terdapat 6862.0 pernikahan, 391.0 kasus cerai talak, 882.0 cerai gugat, dengan total 1273.0 perceraian.
+Pada tahun 2021, di provinsi Papua Barat, terdapat 2247.0 pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Papua, terdapat 4134.0 pernikahan, 514.0 kasus cerai talak, 1324.0 cerai gugat, dengan total 1838.0 perceraian.
+Pada tahun 2021, di provinsi Indonesia, terdapat 1742049.0 pernikahan, 110400.0 kasus cerai talak, 337343.0 cerai gugat, dengan total 447743.0 perceraian.
+Pada tahun 2021, di provinsi nan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi Catatan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2021, di provinsi 1Termasuk bedolan (nikah di luar KUA)/Including registration conducted outside the Religious Affairs Office (KUA)2Hanya untuk yang beragama Islam/Applies only for moslem5Data cerai 2021 masih bergabung dengan Provinsi Riau/Data of divorces 2021 were included in Riau Province6Data cerai 2021 masih bergabung dengan Provinsi Nusa Tenggara Barat/Data of divorces 2021 were included in Nusa Tenggara Barat Province7Data cerai 2021 masih bergabung dengan Provinsi Kalimantan Timur/Data of divorces 2021 were included in Kalimantan Timur Province8Data cerai 2021 masih bergabung dengan Provinsi Sulawesi Selatan/Data of divorces 2021 were included in Sulawesi Selatan Province9Data cerai 2021 masih bergabung dengan Provinsi Papua/Data of divorces 2021 were included in Papua Province, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2022, di provinsi Aceh, terdapat 39572.0 pernikahan, 1879 kasus cerai talak, 5917 cerai gugat, dengan total 7796 perceraian.
+Pada tahun 2022, di provinsi Sumatera Utara, terdapat 80004.0 pernikahan, 3911 kasus cerai talak, 16118 cerai gugat, dengan total 20029 perceraian.
+Pada tahun 2022, di provinsi Sumatera Barat, terdapat 42483.0 pernikahan, 2657 kasus cerai talak, 7621 cerai gugat, dengan total 10278 perceraian.
+Pada tahun 2022, di provinsi Riau, terdapat 44167.0 pernikahan, 3700 kasus cerai talak, 11229 cerai gugat, dengan total 14929 perceraian.
+Pada tahun 2022, di provinsi Jambi, terdapat 25624.0 pernikahan, 1329 kasus cerai talak, 4136 cerai gugat, dengan total 5465 perceraian.
+Pada tahun 2022, di provinsi Sumatera Selatan, terdapat 57888.0 pernikahan, 2869 kasus cerai talak, 9632 cerai gugat, dengan total 12501 perceraian.
+Pada tahun 2022, di provinsi Bengkulu, terdapat 14697.0 pernikahan, 1075 kasus cerai talak, 3151 cerai gugat, dengan total 4226 perceraian.
+Pada tahun 2022, di provinsi Lampung, terdapat 58766.0 pernikahan, 3586 kasus cerai talak, 13562 cerai gugat, dengan total 17148 perceraian.
+Pada tahun 2022, di provinsi Kepulauan Bangka Belitung, terdapat 9204.0 pernikahan, 759 kasus cerai talak, 2272 cerai gugat, dengan total 3031 perceraian.
+Pada tahun 2022, di provinsi Kepulauan Riau, terdapat 11905.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2022, di provinsi DKI Jakarta, terdapat 47225.0 pernikahan, 4943 kasus cerai talak, 14965 cerai gugat, dengan total 19908 perceraian.
+Pada tahun 2022, di provinsi Jawa Barat, terdapat 336912.0 pernikahan, 27907 kasus cerai talak, 85736 cerai gugat, dengan total 113643 perceraian.
+Pada tahun 2022, di provinsi Jawa Tengah, terdapat 270304.0 pernikahan, 21150 kasus cerai talak, 64262 cerai gugat, dengan total 85412 perceraian.
+Pada tahun 2022, di provinsi DI Yogyakarta, terdapat 21448.0 pernikahan, 1570 kasus cerai talak, 4537 cerai gugat, dengan total 6107 perceraian.
+Pada tahun 2022, di provinsi Jawa Timur, terdapat 305458.0 pernikahan, 29150 kasus cerai talak, 72915 cerai gugat, dengan total 102065 perceraian.
+Pada tahun 2022, di provinsi Banten, terdapat 74616.0 pernikahan, 4006 kasus cerai talak, 14695 cerai gugat, dengan total 18701 perceraian.
+Pada tahun 2022, di provinsi Bali, terdapat 3047.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2022, di provinsi Nusa Tenggara Barat, terdapat 32939.0 pernikahan, 2373 kasus cerai talak, 8373 cerai gugat, dengan total 10746 perceraian.
+Pada tahun 2022, di provinsi Nusa Tenggara Timur, terdapat 3388.0 pernikahan, 195 kasus cerai talak, 408 cerai gugat, dengan total 603 perceraian.
+Pada tahun 2022, di provinsi Kalimantan Barat, terdapat 24266.0 pernikahan, 1379 kasus cerai talak, 4257 cerai gugat, dengan total 5636 perceraian.
+Pada tahun 2022, di provinsi Kalimantan Tengah, terdapat 14548.0 pernikahan, 1015 kasus cerai talak, 2987 cerai gugat, dengan total 4002 perceraian.
+Pada tahun 2022, di provinsi Kalimantan Selatan, terdapat 27071.0 pernikahan, 1773 kasus cerai talak, 6452 cerai gugat, dengan total 8225 perceraian.
+Pada tahun 2022, di provinsi Kalimantan Timur, terdapat 22757.0 pernikahan, 2550 kasus cerai talak, 7641 cerai gugat, dengan total 10191 perceraian.
+Pada tahun 2022, di provinsi Kalimantan Utara, terdapat 3615.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2022, di provinsi Sulawesi Utara, terdapat 7071.0 pernikahan, 485 kasus cerai talak, 1696 cerai gugat, dengan total 2181 perceraian.
+Pada tahun 2022, di provinsi Sulawesi Tengah, terdapat 16571.0 pernikahan, 1012 kasus cerai talak, 3448 cerai gugat, dengan total 4460 perceraian.
+Pada tahun 2022, di provinsi Sulawesi Selatan, terdapat 57789.0 pernikahan, 3854 kasus cerai talak, 13504 cerai gugat, dengan total 17358 perceraian.
+Pada tahun 2022, di provinsi Sulawesi Tenggara, terdapat 16616.0 pernikahan, 1010 kasus cerai talak, 3349 cerai gugat, dengan total 4359 perceraian.
+Pada tahun 2022, di provinsi Gorontalo, terdapat 9500.0 pernikahan, 535 kasus cerai talak, 2199 cerai gugat, dengan total 2734 perceraian.
+Pada tahun 2022, di provinsi Sulawesi Barat, terdapat 7791.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2022, di provinsi Maluku, terdapat 5648.0 pernikahan, 265 kasus cerai talak, 682 cerai gugat, dengan total 947 perceraian.
+Pada tahun 2022, di provinsi Maluku Utara, terdapat 6080.0 pernikahan, 432 kasus cerai talak, 1056 cerai gugat, dengan total 1488 perceraian.
+Pada tahun 2022, di provinsi Papua Barat, terdapat 2499.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2022, di provinsi Papua, terdapat 3879.0 pernikahan, 617 kasus cerai talak, 1558 cerai gugat, dengan total 2175 perceraian.
+Pada tahun 2022, di provinsi Indonesia, terdapat 1705348.0 pernikahan, 127986 kasus cerai talak, 388358 cerai gugat, dengan total 516344 perceraian.
+Pada tahun 2022, di provinsi nan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2022, di provinsi Catatan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2022, di provinsi 1Termasuk bedolan (nikah di luar KUA)/Including registration conducted outside the Religious Affairs Office (KUA)2Hanya untuk yang beragama Islam/Applies only for moslem3Data perceraian yang telah diputus oleh Pengadilan tetapi akta cerainya belum tercetak /<i>Divorce data that has been ruled but the divorce certificate has not been printed</i>4Data cerai Kepulauan Riau 2022 masih bergabung dengan Provinsi Riau/Data of divorces Kepulauan Riau 2022 were included in Riau Province5Data cerai Bali 2022 masih bergabung dengan Provinsi Nusa Tenggara Barat/Data of divorces Bali 2022 were included in Nusa Tenggara Barat Province6Data cerai Kalimantan Utara 2022 masih bergabung dengan Provinsi Kalimantan Timur/Data of divorces Kalimantan Utara 2022 were included in Kalimantan Timur Province7Data cerai Sulawesi Barat 2022 masih bergabung dengan Provinsi Sulawesi Selatan/Data of divorces 2022 were included in Sulawesi Selatan Province8Data cerai Papua Barat 022 masih bergabung dengan Provinsi Papua/Data of divorces 2022 were included in Papua Province, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2023, di provinsi Aceh, terdapat 33979.0 pernikahan, 1575 kasus cerai talak, 5369 cerai gugat, dengan total 6944 perceraian.
+Pada tahun 2023, di provinsi Sumatera Utara, terdapat 70630.0 pernikahan, 3523 kasus cerai talak, 14746 cerai gugat, dengan total 18269 perceraian.
+Pada tahun 2023, di provinsi Sumatera Barat, terdapat 38355.0 pernikahan, 2294 kasus cerai talak, 6972 cerai gugat, dengan total 9266 perceraian.
+Pada tahun 2023, di provinsi Riau, terdapat 40301.0 pernikahan, 2437 kasus cerai talak, 7704 cerai gugat, dengan total 10141 perceraian.
+Pada tahun 2023, di provinsi Jambi, terdapat 23037.0 pernikahan, 1157 kasus cerai talak, 3932 cerai gugat, dengan total 5089 perceraian.
+Pada tahun 2023, di provinsi Sumatera Selatan, terdapat 51346.0 pernikahan, 2569 kasus cerai talak, 8881 cerai gugat, dengan total 11450 perceraian.
+Pada tahun 2023, di provinsi Bengkulu, terdapat 13538.0 pernikahan, 932 kasus cerai talak, 3173 cerai gugat, dengan total 4105 perceraian.
+Pada tahun 2023, di provinsi Lampung, terdapat 54257.0 pernikahan, 3172 kasus cerai talak, 12612 cerai gugat, dengan total 15784 perceraian.
+Pada tahun 2023, di provinsi Kepulauan Bangka Belitung, terdapat 8559.0 pernikahan, 578 kasus cerai talak, 1950 cerai gugat, dengan total 2528 perceraian.
+Pada tahun 2023, di provinsi Kepulauan Riau, terdapat 11436.0 pernikahan, 992 kasus cerai talak, 2960 cerai gugat, dengan total 3952 perceraian.
+Pada tahun 2023, di provinsi DKI Jakarta, terdapat 43363.0 pernikahan, 4293 kasus cerai talak, 12970 cerai gugat, dengan total 17263 perceraian.
+Pada tahun 2023, di provinsi Jawa Barat, terdapat 317715.0 pernikahan, 24610 kasus cerai talak, 77670 cerai gugat, dengan total 102280 perceraian.
+Pada tahun 2023, di provinsi Jawa Tengah, terdapat 256144.0 pernikahan, 18327 kasus cerai talak, 58040 cerai gugat, dengan total 76367 perceraian.
+Pada tahun 2023, di provinsi DI Yogyakarta, terdapat 20123.0 pernikahan, 1390 kasus cerai talak, 4422 cerai gugat, dengan total 5812 perceraian.
+Pada tahun 2023, di provinsi Jawa Timur, terdapat 285189.0 pernikahan, 24113 kasus cerai talak, 64100 cerai gugat, dengan total 88213 perceraian.
+Pada tahun 2023, di provinsi Banten, terdapat 68185.0 pernikahan, 3377 kasus cerai talak, 12781 cerai gugat, dengan total 16158 perceraian.
+Pada tahun 2023, di provinsi Bali, terdapat 3056.0 pernikahan, 361 kasus cerai talak, 974 cerai gugat, dengan total 1335 perceraian.
+Pada tahun 2023, di provinsi Nusa Tenggara Barat, terdapat 27850.0 pernikahan, 1724 kasus cerai talak, 6774 cerai gugat, dengan total 8498 perceraian.
+Pada tahun 2023, di provinsi Nusa Tenggara Timur, terdapat 2928.0 pernikahan, 210 kasus cerai talak, 411 cerai gugat, dengan total 621 perceraian.
+Pada tahun 2023, di provinsi Kalimantan Barat, terdapat 21533.0 pernikahan, 1161 kasus cerai talak, 4607 cerai gugat, dengan total 5768 perceraian.
+Pada tahun 2023, di provinsi Kalimantan Tengah, terdapat 13702.0 pernikahan, 867 kasus cerai talak, 2890 cerai gugat, dengan total 3757 perceraian.
+Pada tahun 2023, di provinsi Kalimantan Selatan, terdapat 25579.0 pernikahan, 1546 kasus cerai talak, 5727 cerai gugat, dengan total 7273 perceraian.
+Pada tahun 2023, di provinsi Kalimantan Timur, terdapat 22449.0 pernikahan, 2084 kasus cerai talak, 6157 cerai gugat, dengan total 8241 perceraian.
+Pada tahun 2023, di provinsi Kalimantan Utara, terdapat 3088.0 pernikahan, 299 kasus cerai talak, 919 cerai gugat, dengan total 1218 perceraian.
+Pada tahun 2023, di provinsi Sulawesi Utara, terdapat 6246.0 pernikahan, 478 kasus cerai talak, 1675 cerai gugat, dengan total 2153 perceraian.
+Pada tahun 2023, di provinsi Sulawesi Tengah, terdapat 14848.0 pernikahan, 968 kasus cerai talak, 3155 cerai gugat, dengan total 4123 perceraian.
+Pada tahun 2023, di provinsi Sulawesi Selatan, terdapat 53216.0 pernikahan, 3129 kasus cerai talak, 11483 cerai gugat, dengan total 14612 perceraian.
+Pada tahun 2023, di provinsi Sulawesi Tenggara, terdapat 15355.0 pernikahan, 990 kasus cerai talak, 3323 cerai gugat, dengan total 4313 perceraian.
+Pada tahun 2023, di provinsi Gorontalo, terdapat 8592.0 pernikahan, 514 kasus cerai talak, 1916 cerai gugat, dengan total 2430 perceraian.
+Pada tahun 2023, di provinsi Sulawesi Barat, terdapat 6548.0 pernikahan, 318 kasus cerai talak, 986 cerai gugat, dengan total 1304 perceraian.
+Pada tahun 2023, di provinsi Maluku, terdapat 5043.0 pernikahan, 266 kasus cerai talak, 685 cerai gugat, dengan total 951 perceraian.
+Pada tahun 2023, di provinsi Maluku Utara, terdapat 5271.0 pernikahan, 414 kasus cerai talak, 933 cerai gugat, dengan total 1347 perceraian.
+Pada tahun 2023, di provinsi Papua Barat, terdapat 1113.0 pernikahan, 172 kasus cerai talak, 464 cerai gugat, dengan total 636 perceraian.
+Pada tahun 2023, di provinsi Papua Barat Daya, terdapat 1162.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2023, di provinsi Papua, terdapat 1752.0 pernikahan, 411 kasus cerai talak, 1042 cerai gugat, dengan total 1453 perceraian.
+Pada tahun 2023, di provinsi Papua Selatan, terdapat 871.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2023, di provinsi Papua Tengah, terdapat 896.0 pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2023, di provinsi Papua Pegunungan, terdapat nan pernikahan, ... kasus cerai talak, ... cerai gugat, dengan total ... perceraian.
+Pada tahun 2023, di provinsi Indonesia, terdapat 1577255.0 pernikahan, 111251 kasus cerai talak, 352403 cerai gugat, dengan total 463654 perceraian.
+Pada tahun 2023, di provinsi nan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2023, di provinsi Catatan, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2023, di provinsi <sup>1</sup> Data perceraian yang telah diputus oleh Pengadilan tetapi akta cerainya belum tercetak/<i>Divorce data that has been ruled but the divorce certificate has not been printed</i><sup>2</sup> Termasuk bedolan (nikah di luar KUA)/<i>Including registration conducted outside the Religious Affairs Office (KUA), Divorce data that has been ruled but the divorce certificate has not been printed</i><sup>3</sup> Hanya untuk yang beragama Islam/<i>Applies only for moslem</i>Data Provinsi Papua Barat mencakup Provinsi Papua Barat Daya<i>/Data of Papua Barat Province included Papua Barat Daya Province</i>Data Provinsi Papua mencakup Provinsi Papua Selatan, Papua Tengah, dan Papua Pegunungan<i>/Data of Papua Province included Papua Selatan, Papua Tengah, and Papua Pegunungan Provinces</i>, terdapat nan pernikahan, nan kasus cerai talak, nan cerai gugat, dengan total nan perceraian.
+Pada tahun 2020, provinsi Aceh memiliki 5274.9 ribu penduduk, dengan laju pertumbuhan 1.56% per tahun, persentase 1.95% dari total nasional, kepadatan 91.0 jiwa/km², dan rasio jenis kelamin 100.8.
+Pada tahun 2020, provinsi Sumatera Utara memiliki 14799.4 ribu penduduk, dengan laju pertumbuhan 1.28% per tahun, persentase 5.48% dari total nasional, kepadatan 203.0 jiwa/km², dan rasio jenis kelamin 100.6.
+Pada tahun 2020, provinsi Sumatera Barat memiliki 5534.5 ribu penduduk, dengan laju pertumbuhan 1.29% per tahun, persentase 2.05% dari total nasional, kepadatan 132.0 jiwa/km², dan rasio jenis kelamin 101.4.
+Pada tahun 2020, provinsi Riau memiliki 6394.1 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 2.37% dari total nasional, kepadatan 73.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2020, provinsi Jambi memiliki 3548.2 ribu penduduk, dengan laju pertumbuhan 1.34% per tahun, persentase 1.31% dari total nasional, kepadatan 71.0 jiwa/km², dan rasio jenis kelamin 104.1.
+Pada tahun 2020, provinsi Sumatera Selatan memiliki 8467.4 ribu penduduk, dengan laju pertumbuhan 1.25% per tahun, persentase 3.13% dari total nasional, kepadatan 92.0 jiwa/km², dan rasio jenis kelamin 104.2.
+Pada tahun 2020, provinsi Bengkulu memiliki 2010.7 ribu penduduk, dengan laju pertumbuhan 1.55% per tahun, persentase 0.74% dari total nasional, kepadatan 101.0 jiwa/km², dan rasio jenis kelamin 104.8.
+Pada tahun 2020, provinsi Lampung memiliki 9007.8 ribu penduduk, dengan laju pertumbuhan 1.65% per tahun, persentase 3.33% dari total nasional, kepadatan 260.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2020, provinsi Kepulauan Bangka Belitung memiliki 1455.7 ribu penduduk, dengan laju pertumbuhan 1.7% per tahun, persentase 0.54% dari total nasional, kepadatan 89.0 jiwa/km², dan rasio jenis kelamin 106.1.
+Pada tahun 2020, provinsi Kepulauan Riau memiliki 2064.6 ribu penduduk, dengan laju pertumbuhan 2.02% per tahun, persentase 0.76% dari total nasional, kepadatan 252.0 jiwa/km², dan rasio jenis kelamin 104.2.
+Pada tahun 2020, provinsi DKI Jakarta memiliki 10562.1 ribu penduduk, dengan laju pertumbuhan 0.92% per tahun, persentase 3.91% dari total nasional, kepadatan 15907.0 jiwa/km², dan rasio jenis kelamin 102.1.
+Pada tahun 2020, provinsi Jawa Barat memiliki 48274.2 ribu penduduk, dengan laju pertumbuhan 1.11% per tahun, persentase 17.87% dari total nasional, kepadatan 1365.0 jiwa/km², dan rasio jenis kelamin 103.1.
+Pada tahun 2020, provinsi Jawa Tengah memiliki 36516.0 ribu penduduk, dengan laju pertumbuhan 1.17% per tahun, persentase 13.51% dari total nasional, kepadatan 1113.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2020, provinsi DI Yogyakarta memiliki 3668.7 ribu penduduk, dengan laju pertumbuhan 0.58% per tahun, persentase 1.36% dari total nasional, kepadatan 1171.0 jiwa/km², dan rasio jenis kelamin 98.2.
+Pada tahun 2020, provinsi Jawa Timur memiliki 40665.7 ribu penduduk, dengan laju pertumbuhan 0.79% per tahun, persentase 15.05% dari total nasional, kepadatan 851.0 jiwa/km², dan rasio jenis kelamin 99.6.
+Pada tahun 2020, provinsi Banten memiliki 11904.6 ribu penduduk, dengan laju pertumbuhan 1.1% per tahun, persentase 4.41% dari total nasional, kepadatan 1232.0 jiwa/km², dan rasio jenis kelamin 104.0.
+Pada tahun 2020, provinsi Bali memiliki 4317.4 ribu penduduk, dengan laju pertumbuhan 1.01% per tahun, persentase 1.6% dari total nasional, kepadatan 747.0 jiwa/km², dan rasio jenis kelamin 101.2.
+Pada tahun 2020, provinsi Nusa Tenggara Barat memiliki 5320.1 ribu penduduk, dengan laju pertumbuhan 1.63% per tahun, persentase 1.97% dari total nasional, kepadatan 286.0 jiwa/km², dan rasio jenis kelamin 99.7.
+Pada tahun 2020, provinsi Nusa Tenggara Timur memiliki 5325.6 ribu penduduk, dengan laju pertumbuhan 1.25% per tahun, persentase 1.97% dari total nasional, kepadatan 109.0 jiwa/km², dan rasio jenis kelamin 100.1.
+Pada tahun 2020, provinsi Kalimantan Barat memiliki 5414.4 ribu penduduk, dengan laju pertumbuhan 2.04% per tahun, persentase 2.0% dari total nasional, kepadatan 37.0 jiwa/km², dan rasio jenis kelamin 105.8.
+Pada tahun 2020, provinsi Kalimantan Tengah memiliki 2670.0 ribu penduduk, dengan laju pertumbuhan 1.84% per tahun, persentase 0.99% dari total nasional, kepadatan 17.0 jiwa/km², dan rasio jenis kelamin 107.9.
+Pada tahun 2020, provinsi Kalimantan Selatan memiliki 4073.6 ribu penduduk, dengan laju pertumbuhan 1.13% per tahun, persentase 1.51% dari total nasional, kepadatan 105.0 jiwa/km², dan rasio jenis kelamin 102.5.
+Pada tahun 2020, provinsi Kalimantan Timur memiliki 3766.0 ribu penduduk, dengan laju pertumbuhan 2.13% per tahun, persentase 1.39% dari total nasional, kepadatan 29.0 jiwa/km², dan rasio jenis kelamin 108.7.
+Pada tahun 2020, provinsi Kalimantan Utara memiliki 701.8 ribu penduduk, dengan laju pertumbuhan 2.86% per tahun, persentase 0.26% dari total nasional, kepadatan 9.0 jiwa/km², dan rasio jenis kelamin 111.9.
+Pada tahun 2020, provinsi Sulawesi Utara memiliki 2621.9 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 0.97% dari total nasional, kepadatan 189.0 jiwa/km², dan rasio jenis kelamin 104.8.
+Pada tahun 2020, provinsi Sulawesi Tengah memiliki 2985.7 ribu penduduk, dengan laju pertumbuhan 1.22% per tahun, persentase 1.1% dari total nasional, kepadatan 48.0 jiwa/km², dan rasio jenis kelamin 105.8.
+Pada tahun 2020, provinsi Sulawesi Selatan memiliki 9073.5 ribu penduduk, dengan laju pertumbuhan 1.18% per tahun, persentase 3.36% dari total nasional, kepadatan 194.0 jiwa/km², dan rasio jenis kelamin 98.6.
+Pada tahun 2020, provinsi Sulawesi Tenggara memiliki 2624.9 ribu penduduk, dengan laju pertumbuhan 1.58% per tahun, persentase 0.97% dari total nasional, kepadatan 69.0 jiwa/km², dan rasio jenis kelamin 102.8.
+Pada tahun 2020, provinsi Gorontalo memiliki 1171.7 ribu penduduk, dengan laju pertumbuhan 1.16% per tahun, persentase 0.43% dari total nasional, kepadatan 104.0 jiwa/km², dan rasio jenis kelamin 101.9.
+Pada tahun 2020, provinsi Sulawesi Barat memiliki 1419.2 ribu penduduk, dengan laju pertumbuhan 1.98% per tahun, persentase 0.53% dari total nasional, kepadatan 85.0 jiwa/km², dan rasio jenis kelamin 103.0.
+Pada tahun 2020, provinsi Maluku memiliki 1848.9 ribu penduduk, dengan laju pertumbuhan 1.83% per tahun, persentase 0.68% dari total nasional, kepadatan 39.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2020, provinsi Maluku Utara memiliki 1282.9 ribu penduduk, dengan laju pertumbuhan 2.07% per tahun, persentase 0.47% dari total nasional, kepadatan 40.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2020, provinsi Papua Barat memiliki 1134.1 ribu penduduk, dengan laju pertumbuhan 3.94% per tahun, persentase 0.42% dari total nasional, kepadatan 11.0 jiwa/km², dan rasio jenis kelamin 111.2.
+Pada tahun 2020, provinsi Papua memiliki 4303.7 ribu penduduk, dengan laju pertumbuhan 4.13% per tahun, persentase 1.59% dari total nasional, kepadatan 13.0 jiwa/km², dan rasio jenis kelamin 114.2.
+Pada tahun 2020, provinsi Indonesia memiliki 270203.9 ribu penduduk, dengan laju pertumbuhan 1.25% per tahun, persentase 100.0% dari total nasional, kepadatan 141.0 jiwa/km², dan rasio jenis kelamin 102.3.
+Pada tahun 2020, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2020, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2020, provinsi <sup>(1)</sup>Hasil Sensus Penduduk (SP) 2020 (September)/<i>The Result of 2020 Population Census (September)</i><sup>(2) </sup>Luas Provinsi Berdasarkan Peraturan Menteri memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2020, provinsi Dalam Negeri Nomor 72 Tahun 2019 tanggal 25 Oktober 2019/ <i>Area Province Based on Minister of Home Affairs Regulation Number 72/2019, October 25, 2019</i><sup>(3)</sup>Laju pertumbuhan penduduk Provinsi Kalimantan Utara  dihitung berdasarkan gabungan penduduk Kabupaten Malinau, Nunukan, Bulungan, Tana Tidung dan Kota Tarakan Tahun 2010, dibandingkan dengan Penduduk Provinsi Kalimantan Utara Hasil SP2020/ <i>The growth rate of North Kalimantan Province refers to the change of the population of Malinau, Nunukan, Bulungan, Tana Tidung Regency and Tarakan City in 2010, to the population of North Kalimantan Province in 2020 Population Census </i> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2020, provinsi <sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2020, provinsi </sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi Aceh memiliki 5333.7 ribu penduduk, dengan laju pertumbuhan 1.49% per tahun, persentase 1.96% dari total nasional, kepadatan 92.0 jiwa/km², dan rasio jenis kelamin 100.8.
+Pada tahun 2021, provinsi Sumatera Utara memiliki 14936.2 ribu penduduk, dengan laju pertumbuhan 1.23% per tahun, persentase 5.48% dari total nasional, kepadatan 205.0 jiwa/km², dan rasio jenis kelamin 100.7.
+Pada tahun 2021, provinsi Sumatera Barat memiliki 5580.2 ribu penduduk, dengan laju pertumbuhan 1.1% per tahun, persentase 2.05% dari total nasional, kepadatan 133.0 jiwa/km², dan rasio jenis kelamin 101.5.
+Pada tahun 2021, provinsi Riau memiliki 6493.6 ribu penduduk, dengan laju pertumbuhan 2.08% per tahun, persentase 2.38% dari total nasional, kepadatan 75.0 jiwa/km², dan rasio jenis kelamin 104.9.
+Pada tahun 2021, provinsi Jambi memiliki 3585.1 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 1.31% dari total nasional, kepadatan 72.0 jiwa/km², dan rasio jenis kelamin 104.0.
+Pada tahun 2021, provinsi Sumatera Selatan memiliki 8550.9 ribu penduduk, dengan laju pertumbuhan 1.32% per tahun, persentase 3.14% dari total nasional, kepadatan 93.0 jiwa/km², dan rasio jenis kelamin 104.0.
+Pada tahun 2021, provinsi Bengkulu memiliki 2032.9 ribu penduduk, dengan laju pertumbuhan 1.48% per tahun, persentase 0.75% dari total nasional, kepadatan 102.0 jiwa/km², dan rasio jenis kelamin 104.7.
+Pada tahun 2021, provinsi Lampung memiliki 9081.8 ribu penduduk, dengan laju pertumbuhan 1.1% per tahun, persentase 3.33% dari total nasional, kepadatan 262.0 jiwa/km², dan rasio jenis kelamin 105.0.
+Pada tahun 2021, provinsi Kepulauan Bangka Belitung memiliki 1473.2 ribu penduduk, dengan laju pertumbuhan 1.6% per tahun, persentase 0.54% dari total nasional, kepadatan 90.0 jiwa/km², dan rasio jenis kelamin 105.9.
+Pada tahun 2021, provinsi Kepulauan Riau memiliki 2118.2 ribu penduduk, dengan laju pertumbuhan 3.48% per tahun, persentase 0.78% dari total nasional, kepadatan 258.0 jiwa/km², dan rasio jenis kelamin 104.2.
+Pada tahun 2021, provinsi DKI Jakarta memiliki 10609.7 ribu penduduk, dengan laju pertumbuhan 0.6% per tahun, persentase 3.89% dari total nasional, kepadatan 15978.0 jiwa/km², dan rasio jenis kelamin 101.7.
+Pada tahun 2021, provinsi Jawa Barat memiliki 48782.4 ribu penduduk, dengan laju pertumbuhan 1.41% per tahun, persentase 17.89% dari total nasional, kepadatan 1379.0 jiwa/km², dan rasio jenis kelamin 103.1.
+Pada tahun 2021, provinsi Jawa Tengah memiliki 36742.5 ribu penduduk, dengan laju pertumbuhan 0.83% per tahun, persentase 13.47% dari total nasional, kepadatan 1120.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2021, provinsi DI Yogyakarta memiliki 3712.9 ribu penduduk, dengan laju pertumbuhan 1.61% per tahun, persentase 1.36% dari total nasional, kepadatan 1185.0 jiwa/km², dan rasio jenis kelamin 98.1.
+Pada tahun 2021, provinsi Jawa Timur memiliki 40878.8 ribu penduduk, dengan laju pertumbuhan 0.7% per tahun, persentase 14.99% dari total nasional, kepadatan 855.0 jiwa/km², dan rasio jenis kelamin 99.6.
+Pada tahun 2021, provinsi Banten memiliki 12061.5 ribu penduduk, dengan laju pertumbuhan 1.76% per tahun, persentase 4.42% dari total nasional, kepadatan 1248.0 jiwa/km², dan rasio jenis kelamin 103.9.
+Pada tahun 2021, provinsi Bali memiliki 4362.7 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 1.6% dari total nasional, kepadatan 755.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2021, provinsi Nusa Tenggara Barat memiliki 5390.0 ribu penduduk, dengan laju pertumbuhan 1.76% per tahun, persentase 1.98% dari total nasional, kepadatan 290.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2021, provinsi Nusa Tenggara Timur memiliki 5387.7 ribu penduduk, dengan laju pertumbuhan 1.56% per tahun, persentase 1.98% dari total nasional, kepadatan 111.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2021, provinsi Kalimantan Barat memiliki 5470.8 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 2.01% dari total nasional, kepadatan 37.0 jiwa/km², dan rasio jenis kelamin 105.7.
+Pada tahun 2021, provinsi Kalimantan Tengah memiliki 2702.2 ribu penduduk, dengan laju pertumbuhan 1.61% per tahun, persentase 0.99% dari total nasional, kepadatan 18.0 jiwa/km², dan rasio jenis kelamin 107.8.
+Pada tahun 2021, provinsi Kalimantan Selatan memiliki 4122.6 ribu penduduk, dengan laju pertumbuhan 1.61% per tahun, persentase 1.51% dari total nasional, kepadatan 106.0 jiwa/km², dan rasio jenis kelamin 102.5.
+Pada tahun 2021, provinsi Kalimantan Timur memiliki 3808.2 ribu penduduk, dengan laju pertumbuhan 1.5% per tahun, persentase 1.4% dari total nasional, kepadatan 30.0 jiwa/km², dan rasio jenis kelamin 108.4.
+Pada tahun 2021, provinsi Kalimantan Utara memiliki 713.6 ribu penduduk, dengan laju pertumbuhan 2.25% per tahun, persentase 0.26% dari total nasional, kepadatan 9.0 jiwa/km², dan rasio jenis kelamin 111.6.
+Pada tahun 2021, provinsi Sulawesi Utara memiliki 2638.6 ribu penduduk, dengan laju pertumbuhan 0.85% per tahun, persentase 0.97% dari total nasional, kepadatan 190.0 jiwa/km², dan rasio jenis kelamin 104.7.
+Pada tahun 2021, provinsi Sulawesi Tengah memiliki 3021.9 ribu penduduk, dengan laju pertumbuhan 1.62% per tahun, persentase 1.11% dari total nasional, kepadatan 49.0 jiwa/km², dan rasio jenis kelamin 105.5.
+Pada tahun 2021, provinsi Sulawesi Selatan memiliki 9139.5 ribu penduduk, dengan laju pertumbuhan 0.97% per tahun, persentase 3.35% dari total nasional, kepadatan 196.0 jiwa/km², dan rasio jenis kelamin 98.6.
+Pada tahun 2021, provinsi Sulawesi Tenggara memiliki 2659.2 ribu penduduk, dengan laju pertumbuhan 1.75% per tahun, persentase 0.98% dari total nasional, kepadatan 70.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2021, provinsi Gorontalo memiliki 1181.0 ribu penduduk, dengan laju pertumbuhan 1.06% per tahun, persentase 0.43% dari total nasional, kepadatan 105.0 jiwa/km², dan rasio jenis kelamin 101.8.
+Pada tahun 2021, provinsi Sulawesi Barat memiliki 1436.8 ribu penduduk, dengan laju pertumbuhan 1.66% per tahun, persentase 0.53% dari total nasional, kepadatan 86.0 jiwa/km², dan rasio jenis kelamin 103.0.
+Pada tahun 2021, provinsi Maluku memiliki 1862.6 ribu penduduk, dengan laju pertumbuhan 0.99% per tahun, persentase 0.68% dari total nasional, kepadatan 40.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2021, provinsi Maluku Utara memiliki 1299.2 ribu penduduk, dengan laju pertumbuhan 1.69% per tahun, persentase 0.48% dari total nasional, kepadatan 41.0 jiwa/km², dan rasio jenis kelamin 105.0.
+Pada tahun 2021, provinsi Papua Barat memiliki 1156.8 ribu penduduk, dengan laju pertumbuhan 2.69% per tahun, persentase 0.42% dari total nasional, kepadatan 11.0 jiwa/km², dan rasio jenis kelamin 111.2.
+Pada tahun 2021, provinsi Papua memiliki 4355.4 ribu penduduk, dengan laju pertumbuhan 1.61% per tahun, persentase 1.6% dari total nasional, kepadatan 14.0 jiwa/km², dan rasio jenis kelamin 113.9.
+Pada tahun 2021, provinsi Indonesia memiliki 272682.5 ribu penduduk, dengan laju pertumbuhan 1.22% per tahun, persentase 100.0% dari total nasional, kepadatan 142.0 jiwa/km², dan rasio jenis kelamin 102.3.
+Pada tahun 2021, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi <sup>(1)</sup>Hasil Proyeksi Penduduk Interim 2020–2023 (Pertengahan tahun/Juni)/<i>The result of Interim Population Projection 2020–2023 (mid year/June)</i><sup>(2) </sup>Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2021 (Juni)/ <i>The growth rate refers to the change of the population in 2020 (September) to the population in 2021 (June) memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi </i><sup>(3) </sup>Luas Provinsi Berdasarkan Peraturan Menteri memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi Dalam Negeri Nomor 72 Tahun 2019 tanggal 25 Oktober 2019/ <i>Area Province Based on Minister of Home Affairs Regulation Number 72/2019, October 25, 2019</i> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi <sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2021, provinsi </sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi Aceh memiliki 5407.9 ribu penduduk, dengan laju pertumbuhan 1.43% per tahun, persentase 1.96% dari total nasional, kepadatan 95.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2022, provinsi Sumatera Utara memiliki 15115.2 ribu penduduk, dengan laju pertumbuhan 1.21% per tahun, persentase 5.48% dari total nasional, kepadatan 209.0 jiwa/km², dan rasio jenis kelamin 100.7.
+Pada tahun 2022, provinsi Sumatera Barat memiliki 5640.6 ribu penduduk, dengan laju pertumbuhan 1.09% per tahun, persentase 2.05% dari total nasional, kepadatan 134.0 jiwa/km², dan rasio jenis kelamin 101.5.
+Pada tahun 2022, provinsi Riau memiliki 6614.4 ribu penduduk, dengan laju pertumbuhan 1.95% per tahun, persentase 2.4% dari total nasional, kepadatan 74.0 jiwa/km², dan rasio jenis kelamin 104.7.
+Pada tahun 2022, provinsi Jambi memiliki 3631.1 ribu penduduk, dengan laju pertumbuhan 1.33% per tahun, persentase 1.32% dari total nasional, kepadatan 74.0 jiwa/km², dan rasio jenis kelamin 103.8.
+Pada tahun 2022, provinsi Sumatera Selatan memiliki 8657.0 ribu penduduk, dengan laju pertumbuhan 1.27% per tahun, persentase 3.14% dari total nasional, kepadatan 100.0 jiwa/km², dan rasio jenis kelamin 103.9.
+Pada tahun 2022, provinsi Bengkulu memiliki 2060.1 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 0.75% dari total nasional, kepadatan 102.0 jiwa/km², dan rasio jenis kelamin 104.6.
+Pada tahun 2022, provinsi Lampung memiliki 9176.6 ribu penduduk, dengan laju pertumbuhan 1.07% per tahun, persentase 3.33% dari total nasional, kepadatan 273.0 jiwa/km², dan rasio jenis kelamin 104.9.
+Pada tahun 2022, provinsi Kepulauan Bangka Belitung memiliki 1494.6 ribu penduduk, dengan laju pertumbuhan 1.52% per tahun, persentase 0.54% dari total nasional, kepadatan 90.0 jiwa/km², dan rasio jenis kelamin 105.6.
+Pada tahun 2022, provinsi Kepulauan Riau memiliki 2179.8 ribu penduduk, dengan laju pertumbuhan 3.15% per tahun, persentase 0.79% dari total nasional, kepadatan 264.0 jiwa/km², dan rasio jenis kelamin 104.2.
+Pada tahun 2022, provinsi DKI Jakarta memiliki 10680.0 ribu penduduk, dengan laju pertumbuhan 0.64% per tahun, persentase 3.87% dari total nasional, kepadatan 16158.0 jiwa/km², dan rasio jenis kelamin 101.4.
+Pada tahun 2022, provinsi Jawa Barat memiliki 49405.8 ribu penduduk, dengan laju pertumbuhan 1.33% per tahun, persentase 17.92% dari total nasional, kepadatan 1334.0 jiwa/km², dan rasio jenis kelamin 103.0.
+Pada tahun 2022, provinsi Jawa Tengah memiliki 37032.4 ribu penduduk, dengan laju pertumbuhan 0.81% per tahun, persentase 13.43% dari total nasional, kepadatan 1078.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2022, provinsi DI Yogyakarta memiliki 3761.9 ribu penduduk, dengan laju pertumbuhan 1.44% per tahun, persentase 1.36% dari total nasional, kepadatan 1186.0 jiwa/km², dan rasio jenis kelamin 98.0.
+Pada tahun 2022, provinsi Jawa Timur memiliki 41150.0 ribu penduduk, dengan laju pertumbuhan 0.68% per tahun, persentase 14.92% dari total nasional, kepadatan 857.0 jiwa/km², dan rasio jenis kelamin 99.5.
+Pada tahun 2022, provinsi Banten memiliki 12252.0 ribu penduduk, dengan laju pertumbuhan 1.66% per tahun, persentase 4.44% dari total nasional, kepadatan 1310.0 jiwa/km², dan rasio jenis kelamin 103.8.
+Pada tahun 2022, provinsi Bali memiliki 4415.1 ribu penduduk, dengan laju pertumbuhan 1.29% per tahun, persentase 1.6% dari total nasional, kepadatan 790.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2022, provinsi Nusa Tenggara Barat memiliki 5473.7 ribu penduduk, dengan laju pertumbuhan 1.64% per tahun, persentase 1.98% dari total nasional, kepadatan 278.0 jiwa/km², dan rasio jenis kelamin 100.4.
+Pada tahun 2022, provinsi Nusa Tenggara Timur memiliki 5466.3 ribu penduduk, dengan laju pertumbuhan 1.5% per tahun, persentase 1.98% dari total nasional, kepadatan 118.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2022, provinsi Kalimantan Barat memiliki 5541.4 ribu penduduk, dengan laju pertumbuhan 1.33% per tahun, persentase 2.01% dari total nasional, kepadatan 38.0 jiwa/km², dan rasio jenis kelamin 105.5.
+Pada tahun 2022, provinsi Kalimantan Tengah memiliki 2741.1 ribu penduduk, dengan laju pertumbuhan 1.51% per tahun, persentase 0.99% dari total nasional, kepadatan 18.0 jiwa/km², dan rasio jenis kelamin 107.6.
+Pada tahun 2022, provinsi Kalimantan Selatan memiliki 4182.1 ribu penduduk, dengan laju pertumbuhan 1.51% per tahun, persentase 1.52% dari total nasional, kepadatan 113.0 jiwa/km², dan rasio jenis kelamin 102.4.
+Pada tahun 2022, provinsi Kalimantan Timur memiliki 3859.8 ribu penduduk, dengan laju pertumbuhan 1.41% per tahun, persentase 1.4% dari total nasional, kepadatan 30.0 jiwa/km², dan rasio jenis kelamin 108.1.
+Pada tahun 2022, provinsi Kalimantan Utara memiliki 727.8 ribu penduduk, dengan laju pertumbuhan 2.1% per tahun, persentase 0.26% dari total nasional, kepadatan 10.0 jiwa/km², dan rasio jenis kelamin 111.3.
+Pada tahun 2022, provinsi Sulawesi Utara memiliki 2659.5 ribu penduduk, dengan laju pertumbuhan 0.82% per tahun, persentase 0.96% dari total nasional, kepadatan 183.0 jiwa/km², dan rasio jenis kelamin 104.6.
+Pada tahun 2022, provinsi Sulawesi Tengah memiliki 3066.1 ribu penduduk, dengan laju pertumbuhan 1.53% per tahun, persentase 1.11% dari total nasional, kepadatan 50.0 jiwa/km², dan rasio jenis kelamin 105.2.
+Pada tahun 2022, provinsi Sulawesi Selatan memiliki 9225.8 ribu penduduk, dengan laju pertumbuhan 0.96% per tahun, persentase 3.35% dari total nasional, kepadatan 204.0 jiwa/km², dan rasio jenis kelamin 98.7.
+Pada tahun 2022, provinsi Sulawesi Tenggara memiliki 2701.7 ribu penduduk, dengan laju pertumbuhan 1.66% per tahun, persentase 0.98% dari total nasional, kepadatan 75.0 jiwa/km², dan rasio jenis kelamin 102.4.
+Pada tahun 2022, provinsi Gorontalo memiliki 1192.7 ribu penduduk, dengan laju pertumbuhan 1.02% per tahun, persentase 0.43% dari total nasional, kepadatan 99.0 jiwa/km², dan rasio jenis kelamin 101.8.
+Pada tahun 2022, provinsi Sulawesi Barat memiliki 1458.6 ribu penduduk, dengan laju pertumbuhan 1.58% per tahun, persentase 0.53% dari total nasional, kepadatan 88.0 jiwa/km², dan rasio jenis kelamin 102.9.
+Pada tahun 2022, provinsi Maluku memiliki 1881.7 ribu penduduk, dengan laju pertumbuhan 1.01% per tahun, persentase 0.68% dari total nasional, kepadatan 41.0 jiwa/km², dan rasio jenis kelamin 102.5.
+Pada tahun 2022, provinsi Maluku Utara memiliki 1319.3 ribu penduduk, dengan laju pertumbuhan 1.61% per tahun, persentase 0.48% dari total nasional, kepadatan 40.0 jiwa/km², dan rasio jenis kelamin 104.8.
+Pada tahun 2022, provinsi Papua Barat memiliki 1183.3 ribu penduduk, dengan laju pertumbuhan 2.46% per tahun, persentase 0.43% dari total nasional, kepadatan 12.0 jiwa/km², dan rasio jenis kelamin 111.1.
+Pada tahun 2022, provinsi Papua memiliki 4418.6 ribu penduduk, dengan laju pertumbuhan 1.52% per tahun, persentase 1.6% dari total nasional, kepadatan 14.0 jiwa/km², dan rasio jenis kelamin 113.5.
+Pada tahun 2022, provinsi Indonesia memiliki 275773.8 ribu penduduk, dengan laju pertumbuhan 1.17% per tahun, persentase 100.0% dari total nasional, kepadatan 146.0 jiwa/km², dan rasio jenis kelamin 102.2.
+Pada tahun 2022, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi <sup>1</sup> Hasil Sensus Penduduk (SP) 2020 (September)/The Result of Population Census 2020 (September) <sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi 2</sup> Hasil Proyeksi Penduduk Interim 2020–2023 (Pertengahan tahun/Juni)/The result of Interim Population Projection 2020–2023 (mid year/ June) memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi <sup>3</sup> Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2010 (Mei) dibandingkan dengan penduduk tahun 2020  (September)/The growth rate refers to the change of the population in 2010 (May) to the population in 2020 (September) <sup> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi 4</sup> Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2022(Juni)/The growth rate refers to the change of the population in 2020 (September) to the population in 2022 (June) <sup>  memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2022, provinsi 5</sup> Luas provinsi berdasarkan Peraturan Menteri Dalam Negeri Nomor 72 Tahun 2019 tanggal 25 Oktober 2019/Province area Based on    Minister of Home Affairs Regulation Number 72/2019, 25 October 2019<sup>6</sup> Keputusan Menteri Dalam Negeri Nomor 100.1.1-6117 Tahun 2022 Tentang Pemberian dan Pemutakhiran Kode, Data Wilayah Administrasi Pemerintahan dan Pulau tanggal 9 November 2022. Provinsi Papua Selatan, Papua Tengah dan Papua Pegunungan disajikan dalam Provinsi Papua memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Aceh memiliki 5482.5 ribu penduduk, dengan laju pertumbuhan 1.41% per tahun, persentase 1.97% dari total nasional, kepadatan 96.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2023, provinsi Sumatera Utara memiliki 15386.6 ribu penduduk, dengan laju pertumbuhan 1.43% per tahun, persentase 5.52% dari total nasional, kepadatan 212.0 jiwa/km², dan rasio jenis kelamin 100.7.
+Pada tahun 2023, provinsi Sumatera Barat memiliki 5757.2 ribu penduduk, dengan laju pertumbuhan 1.45% per tahun, persentase 2.07% dari total nasional, kepadatan 137.0 jiwa/km², dan rasio jenis kelamin 101.5.
+Pada tahun 2023, provinsi Riau memiliki 6642.9 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 2.38% dari total nasional, kepadatan 74.0 jiwa/km², dan rasio jenis kelamin 104.6.
+Pada tahun 2023, provinsi Jambi memiliki 3679.2 ribu penduduk, dengan laju pertumbuhan 1.33% per tahun, persentase 1.32% dari total nasional, kepadatan 75.0 jiwa/km², dan rasio jenis kelamin 103.6.
+Pada tahun 2023, provinsi Sumatera Selatan memiliki 8743.5 ribu penduduk, dengan laju pertumbuhan 1.17% per tahun, persentase 3.14% dari total nasional, kepadatan 101.0 jiwa/km², dan rasio jenis kelamin 103.8.
+Pada tahun 2023, provinsi Bengkulu memiliki 2086.0 ribu penduduk, dengan laju pertumbuhan 1.35% per tahun, persentase 0.75% dari total nasional, kepadatan 104.0 jiwa/km², dan rasio jenis kelamin 104.5.
+Pada tahun 2023, provinsi Lampung memiliki 9314.0 ribu penduduk, dengan laju pertumbuhan 1.22% per tahun, persentase 3.34% dari total nasional, kepadatan 277.0 jiwa/km², dan rasio jenis kelamin 104.5.
+Pada tahun 2023, provinsi Kepulauan Bangka Belitung memiliki 1511.9 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 0.54% dari total nasional, kepadatan 91.0 jiwa/km², dan rasio jenis kelamin 105.6.
+Pada tahun 2023, provinsi Kepulauan Riau memiliki 2152.6 ribu penduduk, dengan laju pertumbuhan 1.53% per tahun, persentase 0.77% dari total nasional, kepadatan 260.0 jiwa/km², dan rasio jenis kelamin 103.6.
+Pada tahun 2023, provinsi DKI Jakarta memiliki 10672.1 ribu penduduk, dengan laju pertumbuhan 0.38% per tahun, persentase 3.83% dari total nasional, kepadatan 16146.0 jiwa/km², dan rasio jenis kelamin 101.3.
+Pada tahun 2023, provinsi Jawa Barat memiliki 49860.3 ribu penduduk, dengan laju pertumbuhan 1.18% per tahun, persentase 17.89% dari total nasional, kepadatan 1346.0 jiwa/km², dan rasio jenis kelamin 102.7.
+Pada tahun 2023, provinsi Jawa Tengah memiliki 37541.0 ribu penduduk, dengan laju pertumbuhan 1.01% per tahun, persentase 13.47% dari total nasional, kepadatan 1093.0 jiwa/km², dan rasio jenis kelamin 101.0.
+Pada tahun 2023, provinsi DI Yogyakarta memiliki 3736.5 ribu penduduk, dengan laju pertumbuhan 0.67% per tahun, persentase 1.34% dari total nasional, kepadatan 1178.0 jiwa/km², dan rasio jenis kelamin 98.0.
+Pada tahun 2023, provinsi Jawa Timur memiliki 41527.9 ribu penduduk, dengan laju pertumbuhan 0.77% per tahun, persentase 14.9% dari total nasional, kepadatan 865.0 jiwa/km², dan rasio jenis kelamin 99.5.
+Pada tahun 2023, provinsi Banten memiliki 12307.7 ribu penduduk, dengan laju pertumbuhan 1.22% per tahun, persentase 4.42% dari total nasional, kepadatan 1316.0 jiwa/km², dan rasio jenis kelamin 103.6.
+Pada tahun 2023, provinsi Bali memiliki 4404.3 ribu penduduk, dengan laju pertumbuhan 0.73% per tahun, persentase 1.58% dari total nasional, kepadatan 788.0 jiwa/km², dan rasio jenis kelamin 100.7.
+Pada tahun 2023, provinsi Nusa Tenggara Barat memiliki 5560.3 ribu penduduk, dengan laju pertumbuhan 1.62% per tahun, persentase 2.0% dari total nasional, kepadatan 283.0 jiwa/km², dan rasio jenis kelamin 100.5.
+Pada tahun 2023, provinsi Nusa Tenggara Timur memiliki 5569.1 ribu penduduk, dengan laju pertumbuhan 1.64% per tahun, persentase 2.0% dari total nasional, kepadatan 120.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2023, provinsi Kalimantan Barat memiliki 5623.3 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 2.02% dari total nasional, kepadatan 38.0 jiwa/km², dan rasio jenis kelamin 105.5.
+Pada tahun 2023, provinsi Kalimantan Tengah memiliki 2773.7 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 1.0% dari total nasional, kepadatan 18.0 jiwa/km², dan rasio jenis kelamin 107.1.
+Pada tahun 2023, provinsi Kalimantan Selatan memiliki 4222.3 ribu penduduk, dengan laju pertumbuhan 1.31% per tahun, persentase 1.52% dari total nasional, kepadatan 114.0 jiwa/km², dan rasio jenis kelamin 102.4.
+Pada tahun 2023, provinsi Kalimantan Timur memiliki 3909.7 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 1.4% dari total nasional, kepadatan 31.0 jiwa/km², dan rasio jenis kelamin 107.7.
+Pada tahun 2023, provinsi Kalimantan Utara memiliki 730.0 ribu penduduk, dengan laju pertumbuhan 1.44% per tahun, persentase 0.26% dari total nasional, kepadatan 10.0 jiwa/km², dan rasio jenis kelamin 111.0.
+Pada tahun 2023, provinsi Sulawesi Utara memiliki 2681.5 ribu penduduk, dengan laju pertumbuhan 0.82% per tahun, persentase 0.96% dari total nasional, kepadatan 185.0 jiwa/km², dan rasio jenis kelamin 104.4.
+Pada tahun 2023, provinsi Sulawesi Tengah memiliki 3086.8 ribu penduduk, dengan laju pertumbuhan 1.22% per tahun, persentase 1.11% dari total nasional, kepadatan 50.0 jiwa/km², dan rasio jenis kelamin 105.4.
+Pada tahun 2023, provinsi Sulawesi Selatan memiliki 9362.3 ribu penduduk, dengan laju pertumbuhan 1.15% per tahun, persentase 3.36% dari total nasional, kepadatan 207.0 jiwa/km², dan rasio jenis kelamin 98.7.
+Pada tahun 2023, provinsi Sulawesi Tenggara memiliki 2749.0 ribu penduduk, dengan laju pertumbuhan 1.69% per tahun, persentase 0.99% dari total nasional, kepadatan 76.0 jiwa/km², dan rasio jenis kelamin 102.7.
+Pada tahun 2023, provinsi Gorontalo memiliki 1213.2 ribu penduduk, dengan laju pertumbuhan 1.27% per tahun, persentase 0.44% dari total nasional, kepadatan 101.0 jiwa/km², dan rasio jenis kelamin 101.7.
+Pada tahun 2023, provinsi Sulawesi Barat memiliki 1481.1 ribu penduduk, dengan laju pertumbuhan 1.56% per tahun, persentase 0.53% dari total nasional, kepadatan 89.0 jiwa/km², dan rasio jenis kelamin 102.8.
+Pada tahun 2023, provinsi Maluku memiliki 1920.5 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 0.69% dari total nasional, kepadatan 42.0 jiwa/km², dan rasio jenis kelamin 102.4.
+Pada tahun 2023, provinsi Maluku Utara memiliki 1337.1 ribu penduduk, dengan laju pertumbuhan 1.52% per tahun, persentase 0.48% dari total nasional, kepadatan 41.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2023, provinsi Papua Barat memiliki 1187.3 ribu penduduk, dengan laju pertumbuhan 1.68% per tahun, persentase 0.43% dari total nasional, kepadatan 12.0 jiwa/km², dan rasio jenis kelamin 110.1.
+Pada tahun 2023, provinsi Papua Barat Daya memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Papua memiliki 4482.7 ribu penduduk, dengan laju pertumbuhan 1.49% per tahun, persentase 1.61% dari total nasional, kepadatan 14.0 jiwa/km², dan rasio jenis kelamin 112.9.
+Pada tahun 2023, provinsi Papua Selatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Papua Tengah memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Papua Pegunungan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Indonesia memiliki 278696.2 ribu penduduk, dengan laju pertumbuhan 1.13% per tahun, persentase 100.0% dari total nasional, kepadatan 147.0 jiwa/km², dan rasio jenis kelamin 102.1.
+Pada tahun 2023, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2023, provinsi <sup>1</sup> Hasil Proyeksi Penduduk Indonesia 2020-2050 Hasil Sensus Penduduk 2020 (Pertengahan tahun/Juni)/<i>Indonesia Population Projection 2020-2050 Result of Population Census 2020 (mid year/June)</i><sup>2</sup> Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2023(Juni)/<i>The growth rate refers to the change of the population in 2020 (September) to the population in 2023 (June)</i><sup>3</sup> Luas provinsi berdasarkan  Keputusan Menteri Dalam Negeri Nomor 100.1.1-6117 Tahun 2022 tanggal 9 November 2022/<i>Province area Based on Ministerial Decree of Home Affairs Number 100.1.1-6117,9 November 2022</i> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2024, provinsi Aceh memiliki 5554.8 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 1.97% dari total nasional, kepadatan 98.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2024, provinsi Sumatera Utara memiliki 15588.5 ribu penduduk, dengan laju pertumbuhan 1.4% per tahun, persentase 5.54% dari total nasional, kepadatan 215.0 jiwa/km², dan rasio jenis kelamin 100.8.
+Pada tahun 2024, provinsi Sumatera Barat memiliki 5836.2 ribu penduduk, dengan laju pertumbuhan 1.43% per tahun, persentase 2.07% dari total nasional, kepadatan 139.0 jiwa/km², dan rasio jenis kelamin 101.5.
+Pada tahun 2024, provinsi Riau memiliki 6728.1 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 2.39% dari total nasional, kepadatan 75.0 jiwa/km², dan rasio jenis kelamin 104.4.
+Pada tahun 2024, provinsi Jambi memiliki 3724.3 ribu penduduk, dengan laju pertumbuhan 1.3% per tahun, persentase 1.32% dari total nasional, kepadatan 76.0 jiwa/km², dan rasio jenis kelamin 103.4.
+Pada tahun 2024, provinsi Sumatera Selatan memiliki 8837.3 ribu penduduk, dengan laju pertumbuhan 1.15% per tahun, persentase 3.14% dari total nasional, kepadatan 102.0 jiwa/km², dan rasio jenis kelamin 103.7.
+Pada tahun 2024, provinsi Bengkulu memiliki 2112.2 ribu penduduk, dengan laju pertumbuhan 1.32% per tahun, persentase 0.75% dari total nasional, kepadatan 105.0 jiwa/km², dan rasio jenis kelamin 104.4.
+Pada tahun 2024, provinsi Lampung memiliki 9419.6 ribu penduduk, dengan laju pertumbuhan 1.2% per tahun, persentase 3.34% dari total nasional, kepadatan 281.0 jiwa/km², dan rasio jenis kelamin 104.3.
+Pada tahun 2024, provinsi Kepulauan Bangka Belitung memiliki 1531.5 ribu penduduk, dengan laju pertumbuhan 1.36% per tahun, persentase 0.54% dari total nasional, kepadatan 92.0 jiwa/km², dan rasio jenis kelamin 105.4.
+Pada tahun 2024, provinsi Kepulauan Riau memiliki 2183.3 ribu penduduk, dengan laju pertumbuhan 1.5% per tahun, persentase 0.78% dari total nasional, kepadatan 264.0 jiwa/km², dan rasio jenis kelamin 103.3.
+Pada tahun 2024, provinsi DKI Jakarta memiliki 10684.9 ribu penduduk, dengan laju pertumbuhan 0.31% per tahun, persentase 3.79% dari total nasional, kepadatan 16165.0 jiwa/km², dan rasio jenis kelamin 101.1.
+Pada tahun 2024, provinsi Jawa Barat memiliki 50345.2 ribu penduduk, dengan laju pertumbuhan 1.13% per tahun, persentase 17.88% dari total nasional, kepadatan 1359.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2024, provinsi Jawa Tengah memiliki 37892.3 ribu penduduk, dengan laju pertumbuhan 0.99% per tahun, persentase 13.46% dari total nasional, kepadatan 1104.0 jiwa/km², dan rasio jenis kelamin 101.0.
+Pada tahun 2024, provinsi DI Yogyakarta memiliki 3759.5 ribu penduduk, dengan laju pertumbuhan 0.65% per tahun, persentase 1.34% dari total nasional, kepadatan 1186.0 jiwa/km², dan rasio jenis kelamin 97.9.
+Pada tahun 2024, provinsi Jawa Timur memiliki 41814.5 ribu penduduk, dengan laju pertumbuhan 0.75% per tahun, persentase 14.85% dari total nasional, kepadatan 870.0 jiwa/km², dan rasio jenis kelamin 99.4.
+Pada tahun 2024, provinsi Banten memiliki 12431.4 ribu penduduk, dengan laju pertumbuhan 1.16% per tahun, persentase 4.41% dari total nasional, kepadatan 1329.0 jiwa/km², dan rasio jenis kelamin 103.4.
+Pada tahun 2024, provinsi Bali memiliki 4433.3 ribu penduduk, dengan laju pertumbuhan 0.71% per tahun, persentase 1.57% dari total nasional, kepadatan 793.0 jiwa/km², dan rasio jenis kelamin 100.5.
+Pada tahun 2024, provinsi Nusa Tenggara Barat memiliki 5646.0 ribu penduduk, dengan laju pertumbuhan 1.6% per tahun, persentase 2.0% dari total nasional, kepadatan 287.0 jiwa/km², dan rasio jenis kelamin 100.7.
+Pada tahun 2024, provinsi Nusa Tenggara Timur memiliki 5656.0 ribu penduduk, dengan laju pertumbuhan 1.62% per tahun, persentase 2.01% dari total nasional, kepadatan 122.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2024, provinsi Kalimantan Barat memiliki 5695.5 ribu penduduk, dengan laju pertumbuhan 1.36% per tahun, persentase 2.02% dari total nasional, kepadatan 39.0 jiwa/km², dan rasio jenis kelamin 105.4.
+Pada tahun 2024, provinsi Kalimantan Tengah memiliki 2809.7 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 1.0% dari total nasional, kepadatan 18.0 jiwa/km², dan rasio jenis kelamin 106.8.
+Pada tahun 2024, provinsi Kalimantan Selatan memiliki 4273.4 ribu penduduk, dengan laju pertumbuhan 1.29% per tahun, persentase 1.52% dari total nasional, kepadatan 115.0 jiwa/km², dan rasio jenis kelamin 102.3.
+Pada tahun 2024, provinsi Kalimantan Timur memiliki 4045.9 ribu penduduk, dengan laju pertumbuhan 1.93% per tahun, persentase 1.44% dari total nasional, kepadatan 32.0 jiwa/km², dan rasio jenis kelamin 107.3.
+Pada tahun 2024, provinsi Kalimantan Utara memiliki 739.8 ribu penduduk, dengan laju pertumbuhan 1.41% per tahun, persentase 0.26% dari total nasional, kepadatan 11.0 jiwa/km², dan rasio jenis kelamin 110.7.
+Pada tahun 2024, provinsi Sulawesi Utara memiliki 2701.8 ribu penduduk, dengan laju pertumbuhan 0.8% per tahun, persentase 0.96% dari total nasional, kepadatan 186.0 jiwa/km², dan rasio jenis kelamin 104.3.
+Pada tahun 2024, provinsi Sulawesi Tengah memiliki 3121.8 ribu penduduk, dengan laju pertumbuhan 1.2% per tahun, persentase 1.11% dari total nasional, kepadatan 51.0 jiwa/km², dan rasio jenis kelamin 105.2.
+Pada tahun 2024, provinsi Sulawesi Selatan memiliki 9463.4 ribu penduduk, dengan laju pertumbuhan 1.13% per tahun, persentase 3.36% dari total nasional, kepadatan 209.0 jiwa/km², dan rasio jenis kelamin 98.8.
+Pada tahun 2024, provinsi Sulawesi Tenggara memiliki 2793.1 ribu penduduk, dengan laju pertumbuhan 1.67% per tahun, persentase 0.99% dari total nasional, kepadatan 77.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2024, provinsi Gorontalo memiliki 1227.8 ribu penduduk, dengan laju pertumbuhan 1.26% per tahun, persentase 0.44% dari total nasional, kepadatan 102.0 jiwa/km², dan rasio jenis kelamin 101.7.
+Pada tahun 2024, provinsi Sulawesi Barat memiliki 1503.2 ribu penduduk, dengan laju pertumbuhan 1.55% per tahun, persentase 0.53% dari total nasional, kepadatan 91.0 jiwa/km², dan rasio jenis kelamin 102.7.
+Pada tahun 2024, provinsi Maluku memiliki 1945.6 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 0.69% dari total nasional, kepadatan 42.0 jiwa/km², dan rasio jenis kelamin 102.3.
+Pada tahun 2024, provinsi Maluku Utara memiliki 1355.6 ribu penduduk, dengan laju pertumbuhan 1.48% per tahun, persentase 0.48% dari total nasional, kepadatan 41.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2024, provinsi Papua Barat memiliki 578.7 ribu penduduk, dengan laju pertumbuhan 1.71% per tahun, persentase 0.21% dari total nasional, kepadatan 10.0 jiwa/km², dan rasio jenis kelamin 110.8.
+Pada tahun 2024, provinsi Papua Barat Daya memiliki 627.1 ribu penduduk, dengan laju pertumbuhan 1.59% per tahun, persentase 0.22% dari total nasional, kepadatan 16.0 jiwa/km², dan rasio jenis kelamin 108.9.
+Pada tahun 2024, provinsi Papua memiliki 1060.6 ribu penduduk, dengan laju pertumbuhan 1.36% per tahun, persentase 0.38% dari total nasional, kepadatan 13.0 jiwa/km², dan rasio jenis kelamin 109.7.
+Pada tahun 2024, provinsi Papua Selatan memiliki 542.1 ribu penduduk, dengan laju pertumbuhan 1.45% per tahun, persentase 0.19% dari total nasional, kepadatan 5.0 jiwa/km², dan rasio jenis kelamin 108.0.
+Pada tahun 2024, provinsi Papua Tengah memiliki 1472.9 ribu penduduk, dengan laju pertumbuhan 1.54% per tahun, persentase 0.52% dari total nasional, kepadatan 24.0 jiwa/km², dan rasio jenis kelamin 114.0.
+Pada tahun 2024, provinsi Papua Pegunungan memiliki 1467.0 ribu penduduk, dengan laju pertumbuhan 1.43% per tahun, persentase 0.52% dari total nasional, kepadatan 29.0 jiwa/km², dan rasio jenis kelamin 114.5.
+Pada tahun 2024, provinsi Indonesia memiliki 281603.8 ribu penduduk, dengan laju pertumbuhan 1.11% per tahun, persentase 100.0% dari total nasional, kepadatan 149.0 jiwa/km², dan rasio jenis kelamin 102.0.
+Pada tahun 2024, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2024, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2024, provinsi <sup>1</sup> Hasil Proyeksi Penduduk Indonesia 2020-2050 Hasil Sensus Penduduk 2020 (Pertengahan tahun/Juni)/<i>Indonesia Population Projection 2020-2050 Result of Population Census 2020 (mid year/June)</i><sup>2</sup> Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2024(Juni)/<i>The growth rate refers to the change of the population in 2020 (September) to the population in 2024 (June)    </i><sup>3</sup> Luas provinsi berdasarkan  Keputusan Menteri Dalam Negeri Nomor 100.1.1-6117 Tahun 2022 tanggal 9 November 2022/<i>Province area Based on Ministerial Decree of Home Affairs Number 100.1.1-6117,9 November 2022</i><sup>4</sup> Laju Pertumbuhan Penduduk dihitung dengan menggunakan data dasar jumlah penduduk tahun 2020 yang merupakan penjumlahan dari memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2024, provinsi kabupaten/kota pembentuk/<i>The Population Growth Rate calculated refers to total population 2020 is the sum of the forming regency/municipality</i> memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi Aceh memiliki 5626.0 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 1.98% dari total nasional, kepadatan 99.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2025, provinsi Sumatera Utara memiliki 15785.8 ribu penduduk, dengan laju pertumbuhan 1.37% per tahun, persentase 5.55% dari total nasional, kepadatan 218.0 jiwa/km², dan rasio jenis kelamin 100.8.
+Pada tahun 2025, provinsi Sumatera Barat memiliki 5914.3 ribu penduduk, dengan laju pertumbuhan 1.41% per tahun, persentase 2.08% dari total nasional, kepadatan 140.0 jiwa/km², dan rasio jenis kelamin 101.5.
+Pada tahun 2025, provinsi Riau memiliki 6811.2 ribu penduduk, dengan laju pertumbuhan 1.34% per tahun, persentase 2.39% dari total nasional, kepadatan 76.0 jiwa/km², dan rasio jenis kelamin 104.3.
+Pada tahun 2025, provinsi Jambi memiliki 3768.5 ribu penduduk, dengan laju pertumbuhan 1.28% per tahun, persentase 1.32% dari total nasional, kepadatan 77.0 jiwa/km², dan rasio jenis kelamin 103.2.
+Pada tahun 2025, provinsi Sumatera Selatan memiliki 8928.5 ribu penduduk, dengan laju pertumbuhan 1.12% per tahun, persentase 3.14% dari total nasional, kepadatan 103.0 jiwa/km², dan rasio jenis kelamin 103.6.
+Pada tahun 2025, provinsi Bengkulu memiliki 2138.0 ribu penduduk, dengan laju pertumbuhan 1.3% per tahun, persentase 0.75% dari total nasional, kepadatan 106.0 jiwa/km², dan rasio jenis kelamin 104.2.
+Pada tahun 2025, provinsi Lampung memiliki 9522.9 ribu penduduk, dengan laju pertumbuhan 1.18% per tahun, persentase 3.35% dari total nasional, kepadatan 284.0 jiwa/km², dan rasio jenis kelamin 104.1.
+Pada tahun 2025, provinsi Kepulauan Bangka Belitung memiliki 1550.8 ribu penduduk, dengan laju pertumbuhan 1.34% per tahun, persentase 0.55% dari total nasional, kepadatan 93.0 jiwa/km², dan rasio jenis kelamin 105.2.
+Pada tahun 2025, provinsi Kepulauan Riau memiliki 2213.5 ribu penduduk, dengan laju pertumbuhan 1.48% per tahun, persentase 0.78% dari total nasional, kepadatan 268.0 jiwa/km², dan rasio jenis kelamin 103.1.
+Pada tahun 2025, provinsi DKI Jakarta memiliki 10678.0 ribu penduduk, dengan laju pertumbuhan 0.23% per tahun, persentase 3.75% dari total nasional, kepadatan 16155.0 jiwa/km², dan rasio jenis kelamin 100.8.
+Pada tahun 2025, provinsi Jawa Barat memiliki 50759.0 ribu penduduk, dengan laju pertumbuhan 1.06% per tahun, persentase 17.85% dari total nasional, kepadatan 1370.0 jiwa/km², dan rasio jenis kelamin 102.4.
+Pada tahun 2025, provinsi Jawa Tengah memiliki 38233.9 ribu penduduk, dengan laju pertumbuhan 0.97% per tahun, persentase 13.44% dari total nasional, kepadatan 1113.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2025, provinsi DI Yogyakarta memiliki 3781.5 ribu penduduk, dengan laju pertumbuhan 0.64% per tahun, persentase 1.33% dari total nasional, kepadatan 1193.0 jiwa/km², dan rasio jenis kelamin 97.8.
+Pada tahun 2025, provinsi Jawa Timur memiliki 42089.3 ribu penduduk, dengan laju pertumbuhan 0.73% per tahun, persentase 14.8% dari total nasional, kepadatan 876.0 jiwa/km², dan rasio jenis kelamin 99.4.
+Pada tahun 2025, provinsi Banten memiliki 12537.4 ribu penduduk, dengan laju pertumbuhan 1.1% per tahun, persentase 4.41% dari total nasional, kepadatan 1341.0 jiwa/km², dan rasio jenis kelamin 103.3.
+Pada tahun 2025, provinsi Bali memiliki 4461.3 ribu penduduk, dengan laju pertumbuhan 0.69% per tahun, persentase 1.57% dari total nasional, kepadatan 798.0 jiwa/km², dan rasio jenis kelamin 100.4.
+Pada tahun 2025, provinsi Nusa Tenggara Barat memiliki 5731.1 ribu penduduk, dengan laju pertumbuhan 1.58% per tahun, persentase 2.01% dari total nasional, kepadatan 291.0 jiwa/km², dan rasio jenis kelamin 100.9.
+Pada tahun 2025, provinsi Nusa Tenggara Timur memiliki 5742.6 ribu penduduk, dengan laju pertumbuhan 1.6% per tahun, persentase 2.02% dari total nasional, kepadatan 124.0 jiwa/km², dan rasio jenis kelamin 100.0.
+Pada tahun 2025, provinsi Kalimantan Barat memiliki 5766.0 ribu penduduk, dengan laju pertumbuhan 1.33% per tahun, persentase 2.03% dari total nasional, kepadatan 39.0 jiwa/km², dan rasio jenis kelamin 105.3.
+Pada tahun 2025, provinsi Kalimantan Tengah memiliki 2845.0 ribu penduduk, dengan laju pertumbuhan 1.35% per tahun, persentase 1.0% dari total nasional, kepadatan 19.0 jiwa/km², dan rasio jenis kelamin 106.5.
+Pada tahun 2025, provinsi Kalimantan Selatan memiliki 4323.3 ribu penduduk, dengan laju pertumbuhan 1.26% per tahun, persentase 1.52% dari total nasional, kepadatan 116.0 jiwa/km², dan rasio jenis kelamin 102.2.
+Pada tahun 2025, provinsi Kalimantan Timur memiliki 4267.6 ribu penduduk, dengan laju pertumbuhan 2.67% per tahun, persentase 1.5% dari total nasional, kepadatan 34.0 jiwa/km², dan rasio jenis kelamin 106.8.
+Pada tahun 2025, provinsi Kalimantan Utara memiliki 749.4 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 0.26% dari total nasional, kepadatan 11.0 jiwa/km², dan rasio jenis kelamin 110.4.
+Pada tahun 2025, provinsi Sulawesi Utara memiliki 2721.4 ribu penduduk, dengan laju pertumbuhan 0.79% per tahun, persentase 0.96% dari total nasional, kepadatan 188.0 jiwa/km², dan rasio jenis kelamin 104.1.
+Pada tahun 2025, provinsi Sulawesi Tengah memiliki 3156.1 ribu penduduk, dengan laju pertumbuhan 1.18% per tahun, persentase 1.11% dari total nasional, kepadatan 51.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2025, provinsi Sulawesi Selatan memiliki 9563.1 ribu penduduk, dengan laju pertumbuhan 1.11% per tahun, persentase 3.36% dari total nasional, kepadatan 211.0 jiwa/km², dan rasio jenis kelamin 98.8.
+Pada tahun 2025, provinsi Sulawesi Tenggara memiliki 2836.7 ribu penduduk, dengan laju pertumbuhan 1.65% per tahun, persentase 1.0% dari total nasional, kepadatan 78.0 jiwa/km², dan rasio jenis kelamin 102.6.
+Pada tahun 2025, provinsi Gorontalo memiliki 1242.2 ribu penduduk, dengan laju pertumbuhan 1.24% per tahun, persentase 0.44% dari total nasional, kepadatan 103.0 jiwa/km², dan rasio jenis kelamin 101.6.
+Pada tahun 2025, provinsi Sulawesi Barat memiliki 1525.3 ribu penduduk, dengan laju pertumbuhan 1.53% per tahun, persentase 0.54% dari total nasional, kepadatan 92.0 jiwa/km², dan rasio jenis kelamin 102.7.
+Pada tahun 2025, provinsi Maluku memiliki 1970.6 ribu penduduk, dengan laju pertumbuhan 1.35% per tahun, persentase 0.69% dari total nasional, kepadatan 43.0 jiwa/km², dan rasio jenis kelamin 102.2.
+Pada tahun 2025, provinsi Maluku Utara memiliki 1373.8 ribu penduduk, dengan laju pertumbuhan 1.45% per tahun, persentase 0.48% dari total nasional, kepadatan 42.0 jiwa/km², dan rasio jenis kelamin 105.1.
+Pada tahun 2025, provinsi Papua Barat memiliki 587.6 ribu penduduk, dengan laju pertumbuhan 1.68% per tahun, persentase 0.21% dari total nasional, kepadatan 10.0 jiwa/km², dan rasio jenis kelamin 110.5.
+Pada tahun 2025, provinsi Papua Barat Daya memiliki 636.4 ribu penduduk, dengan laju pertumbuhan 1.57% per tahun, persentase 0.22% dari total nasional, kepadatan 16.0 jiwa/km², dan rasio jenis kelamin 108.5.
+Pada tahun 2025, provinsi Papua memiliki 1073.6 ribu penduduk, dengan laju pertumbuhan 1.34% per tahun, persentase 0.38% dari total nasional, kepadatan 13.0 jiwa/km², dan rasio jenis kelamin 109.4.
+Pada tahun 2025, provinsi Papua Selatan memiliki 549.7 ribu penduduk, dengan laju pertumbuhan 1.44% per tahun, persentase 0.19% dari total nasional, kepadatan 5.0 jiwa/km², dan rasio jenis kelamin 107.7.
+Pada tahun 2025, provinsi Papua Tengah memiliki 1492.3 ribu penduduk, dengan laju pertumbuhan 1.49% per tahun, persentase 0.52% dari total nasional, kepadatan 24.0 jiwa/km², dan rasio jenis kelamin 113.5.
+Pada tahun 2025, provinsi Papua Pegunungan memiliki 1484.9 ribu penduduk, dengan laju pertumbuhan 1.39% per tahun, persentase 0.52% dari total nasional, kepadatan 29.0 jiwa/km², dan rasio jenis kelamin 114.0.
+Pada tahun 2025, provinsi Indonesia memiliki 284438.8 ribu penduduk, dengan laju pertumbuhan 1.09% per tahun, persentase 100.0% dari total nasional, kepadatan 150.0 jiwa/km², dan rasio jenis kelamin 101.9.
+Pada tahun 2025, provinsi nan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi Catatan memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi 1Hasil Proyeksi Penduduk Indonesia 2020-2050 Hasil Sensus Penduduk 2020 (Pertengahan tahun/Juni)/ Indonesia Population Projection 2020-2050 Result of Population Census 2020 (mid year/June)  memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi 2Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2025(Juni)/ The growth rate refers to the change of the population in 2020 (September) to the population in 2025 (June)   memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi 3Luas provinsi berdasarkan Keputusan Menteri Dalam Negeri Nomor 100.1.1-6117 Tahun 2022 tanggal 9 November 2022/ Province area Based on Ministerial Decree of Home Affairs Number 100.1.1-6117,9 November 2022  memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.
+Pada tahun 2025, provinsi 4 Laju pertumbuhan penduduk dihitung dengan menggunakan data dasar jumlah penduduk tahun 2020 yang merupakan penjumlahan dari kabupaten/kota pembentuk/ The Growth Rate calculated refers to total population 2020 is the sum of the forming regency/municipality  memiliki nan ribu penduduk, dengan laju pertumbuhan nan% per tahun, persentase nan% dari total nasional, kepadatan nan jiwa/km², dan rasio jenis kelamin nan.

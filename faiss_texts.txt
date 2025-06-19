@@ -1,0 +1,457 @@
+aceh 56260 137 198 990 1009
+sumatera utara 157858 137 555 2180 1008
+sumatera barat 59143 141 208 1400 1015
+riau 68112 134 239 760 1043
+jambi 37685 128 132 770 1032
+sumatera selatan 89285 112 314 1030 1036
+bengkulu 21380 13 075 1060 1042
+lampung 95229 118 335 2840 1041
+kepulauan bangka belitung 15508 134 055 930 1052
+kepulauan riau 22135 148 078 2680 1031
+dki jakarta 106780 023 375 161550 1008
+jawa barat 507590 106 1785 13700 1024
+jawa tengah 382339 097 1344 11130 1009
+di yogyakarta 37815 064 133 11930 978
+jawa timur 420893 073 148 8760 994
+banten 125374 11 441 13410 1033
+bali 44613 069 157 7980 1004
+nusa tenggara barat 57311 158 201 2910 1009
+nusa tenggara timur 57426 16 202 1240 1000
+kalimantan barat 57660 133 203 390 1053
+kalimantan tengah 28450 135 10 190 1065
+kalimantan selatan 43233 126 152 1160 1022
+kalimantan timur 42676 267 15 340 1068
+kalimantan utara 7494 139 026 110 1104
+sulawesi utara 27214 079 096 1880 1041
+sulawesi tengah 31561 118 111 510 1051
+sulawesi selatan 95631 111 336 2110 988
+sulawesi tenggara 28367 165 10 780 1026
+gorontalo 12422 124 044 1030 1016
+sulawesi barat 15253 153 054 920 1027
+maluku 19706 135 069 430 1022
+maluku utara 13738 145 048 420 1051
+papua barat 5876 168 021 100 1105
+papua barat daya 6364 157 022 160 1085
+papua 10736 134 038 130 1094
+papua selatan 5497 144 019 50 1077
+papua tengah 14923 149 052 240 1135
+papua pegunungan 14849 139 052 290 1140
+indonesia 2844388 109 1000 1500 1019
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+1hasil proyeksi penduduk indonesia 20202050 hasil sensus penduduk 2020 pertengahan tahunjuni indonesia population projection 20202050 result of population census 2020 mid yearjune  nan nan nan nan nan
+2laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 september dibandingkan dengan penduduk tahun 2025juni the growth rate refers to the change of the population in 2020 september to the population in 2025 june   nan nan nan nan nan
+3luas provinsi berdasarkan keputusan menteri dalam negeri nomor 100116117 tahun 2022 tanggal 9 november 2022 province area based on ministerial decree of home affairs number 1001161179 november 2022  nan nan nan nan nan
+4 laju pertumbuhan penduduk dihitung dengan menggunakan data dasar jumlah penduduk tahun 2020 yang merupakan penjumlahan dari kabupatenkota pembentuk the growth rate calculated refers to total population 2020 is the sum of the forming regencymunicipality  nan nan nan nan nan
+aceh 52749 156 195 910 1008
+sumatera utara 147994 128 548 2030 1006
+sumatera barat 55345 129 205 1320 1014
+riau 63941 14 237 730 1051
+jambi 35482 134 131 710 1041
+sumatera selatan 84674 125 313 920 1042
+bengkulu 20107 155 074 1010 1048
+lampung 90078 165 333 2600 1051
+kepulauan bangka belitung 14557 17 054 890 1061
+kepulauan riau 20646 202 076 2520 1042
+dki jakarta 105621 092 391 159070 1021
+jawa barat 482742 111 1787 13650 1031
+jawa tengah 365160 117 1351 11130 1011
+di yogyakarta 36687 058 136 11710 982
+jawa timur 406657 079 1505 8510 996
+banten 119046 11 441 12320 1040
+bali 43174 101 16 7470 1012
+nusa tenggara barat 53201 163 197 2860 997
+nusa tenggara timur 53256 125 197 1090 1001
+kalimantan barat 54144 204 20 370 1058
+kalimantan tengah 26700 184 099 170 1079
+kalimantan selatan 40736 113 151 1050 1025
+kalimantan timur 37660 213 139 290 1087
+kalimantan utara 7018 286 026 90 1119
+sulawesi utara 26219 14 097 1890 1048
+sulawesi tengah 29857 122 11 480 1058
+sulawesi selatan 90735 118 336 1940 986
+sulawesi tenggara 26249 158 097 690 1028
+gorontalo 11717 116 043 1040 1019
+sulawesi barat 14192 198 053 850 1030
+maluku 18489 183 068 390 1026
+maluku utara 12829 207 047 400 1051
+papua barat 11341 394 042 110 1112
+papua 43037 413 159 130 1142
+indonesia 2702039 125 1000 1410 1023
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+sup1suphasil sensus penduduk sp 2020 septemberithe result of 2020 population census septemberisup2 supluas provinsi berdasarkan peraturan menteri nan nan nan nan nan
+dalam negeri nomor 72 tahun 2019 tanggal 25 oktober 2019 iarea province based on minister of home affairs regulation number 722019 october 25 2019isup3suplaju pertumbuhan penduduk provinsi kalimantan utara  dihitung berdasarkan gabungan penduduk kabupaten malinau nunukan bulungan tana tidung dan kota tarakan tahun 2010 dibandingkan dengan penduduk provinsi kalimantan utara hasil sp2020 ithe growth rate of north kalimantan province refers to the change of the population of malinau nunukan bulungan tana tidung regency and tarakan city in 2010 to the population of north kalimantan province in 2020 population census i nan nan nan nan nan
+sup nan nan nan nan nan
+sup nan nan nan nan nan
+aceh 53337 149 196 920 1008
+sumatera utara 149362 123 548 2050 1007
+sumatera barat 55802 11 205 1330 1015
+riau 64936 208 238 750 1049
+jambi 35851 139 131 720 1040
+sumatera selatan 85509 132 314 930 1040
+bengkulu 20329 148 075 1020 1047
+lampung 90818 11 333 2620 1050
+kepulauan bangka belitung 14732 16 054 900 1059
+kepulauan riau 21182 348 078 2580 1042
+dki jakarta 106097 06 389 159780 1017
+jawa barat 487824 141 1789 13790 1031
+jawa tengah 367425 083 1347 11200 1011
+di yogyakarta 37129 161 136 11850 981
+jawa timur 408788 07 1499 8550 996
+banten 120615 176 442 12480 1039
+bali 43627 14 16 7550 1011
+nusa tenggara barat 53900 176 198 2900 1000
+nusa tenggara timur 53877 156 198 1110 1000
+kalimantan barat 54708 139 201 370 1057
+kalimantan tengah 27022 161 099 180 1078
+kalimantan selatan 41226 161 151 1060 1025
+kalimantan timur 38082 15 14 300 1084
+kalimantan utara 7136 225 026 90 1116
+sulawesi utara 26386 085 097 1900 1047
+sulawesi tengah 30219 162 111 490 1055
+sulawesi selatan 91395 097 335 1960 986
+sulawesi tenggara 26592 175 098 700 1026
+gorontalo 11810 106 043 1050 1018
+sulawesi barat 14368 166 053 860 1030
+maluku 18626 099 068 400 1026
+maluku utara 12992 169 048 410 1050
+papua barat 11568 269 042 110 1112
+papua 43554 161 16 140 1139
+indonesia 2726825 122 1000 1420 1023
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+sup1suphasil proyeksi penduduk interim 20202023 pertengahan tahunjuniithe result of interim population projection 20202023 mid yearjuneisup2 suplaju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 september dibandingkan dengan penduduk tahun 2021 juni ithe growth rate refers to the change of the population in 2020 september to the population in 2021 june nan nan nan nan nan
+isup3 supluas provinsi berdasarkan peraturan menteri nan nan nan nan nan
+dalam negeri nomor 72 tahun 2019 tanggal 25 oktober 2019 iarea province based on minister of home affairs regulation number 722019 october 25 2019i nan nan nan nan nan
+sup nan nan nan nan nan
+sup nan nan nan nan nan
+aceh 54079 143 196 950 1009
+sumatera utara 151152 121 548 2090 1007
+sumatera barat 56406 109 205 1340 1015
+riau 66144 195 24 740 1047
+jambi 36311 133 132 740 1038
+sumatera selatan 86570 127 314 1000 1039
+bengkulu 20601 14 075 1020 1046
+lampung 91766 107 333 2730 1049
+kepulauan bangka belitung 14946 152 054 900 1056
+kepulauan riau 21798 315 079 2640 1042
+dki jakarta 106800 064 387 161580 1014
+jawa barat 494058 133 1792 13340 1030
+jawa tengah 370324 081 1343 10780 1011
+di yogyakarta 37619 144 136 11860 980
+jawa timur 411500 068 1492 8570 995
+banten 122520 166 444 13100 1038
+bali 44151 129 16 7900 1011
+nusa tenggara barat 54737 164 198 2780 1004
+nusa tenggara timur 54663 15 198 1180 1000
+kalimantan barat 55414 133 201 380 1055
+kalimantan tengah 27411 151 099 180 1076
+kalimantan selatan 41821 151 152 1130 1024
+kalimantan timur 38598 141 14 300 1081
+kalimantan utara 7278 21 026 100 1113
+sulawesi utara 26595 082 096 1830 1046
+sulawesi tengah 30661 153 111 500 1052
+sulawesi selatan 92258 096 335 2040 987
+sulawesi tenggara 27017 166 098 750 1024
+gorontalo 11927 102 043 990 1018
+sulawesi barat 14586 158 053 880 1029
+maluku 18817 101 068 410 1025
+maluku utara 13193 161 048 400 1048
+papua barat 11833 246 043 120 1111
+papua 44186 152 16 140 1135
+indonesia 2757738 117 1000 1460 1022
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+sup1sup hasil sensus penduduk sp 2020 septemberthe result of population census 2020 september sup nan nan nan nan nan
+2sup hasil proyeksi penduduk interim 20202023 pertengahan tahunjunithe result of interim population projection 20202023 mid year june nan nan nan nan nan
+sup3sup laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2010 mei dibandingkan dengan penduduk tahun 2020  septemberthe growth rate refers to the change of the population in 2010 may to the population in 2020 september sup nan nan nan nan nan
+4sup laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 september dibandingkan dengan penduduk tahun 2022junithe growth rate refers to the change of the population in 2020 september to the population in 2022 june sup  nan nan nan nan nan
+5sup luas provinsi berdasarkan peraturan menteri dalam negeri nomor 72 tahun 2019 tanggal 25 oktober 2019province area based on    minister of home affairs regulation number 722019 25 october 2019sup6sup keputusan menteri dalam negeri nomor 100116117 tahun 2022 tentang pemberian dan pemutakhiran kode data wilayah administrasi pemerintahan dan pulau tanggal 9 november 2022 provinsi papua selatan papua tengah dan papua pegunungan disajikan dalam provinsi papua nan nan nan nan nan
+aceh 54825 141 197 960 1009
+sumatera utara 153866 143 552 2120 1007
+sumatera barat 57572 145 207 1370 1015
+riau 66429 14 238 740 1046
+jambi 36792 133 132 750 1036
+sumatera selatan 87435 117 314 1010 1038
+bengkulu 20860 135 075 1040 1045
+lampung 93140 122 334 2770 1045
+kepulauan bangka belitung 15119 139 054 910 1056
+kepulauan riau 21526 153 077 2600 1036
+dki jakarta 106721 038 383 161460 1013
+jawa barat 498603 118 1789 13460 1027
+jawa tengah 375410 101 1347 10930 1010
+di yogyakarta 37365 067 134 11780 980
+jawa timur 415279 077 149 8650 995
+banten 123077 122 442 13160 1036
+bali 44043 073 158 7880 1007
+nusa tenggara barat 55603 162 20 2830 1005
+nusa tenggara timur 55691 164 20 1200 1000
+kalimantan barat 56233 139 202 380 1055
+kalimantan tengah 27737 14 10 180 1071
+kalimantan selatan 42223 131 152 1140 1024
+kalimantan timur 39097 137 14 310 1077
+kalimantan utara 7300 144 026 100 1110
+sulawesi utara 26815 082 096 1850 1044
+sulawesi tengah 30868 122 111 500 1054
+sulawesi selatan 93623 115 336 2070 987
+sulawesi tenggara 27490 169 099 760 1027
+gorontalo 12132 127 044 1010 1017
+sulawesi barat 14811 156 053 890 1028
+maluku 19205 139 069 420 1024
+maluku utara 13371 152 048 410 1051
+papua barat 11873 168 043 120 1101
+papua barat daya nan nan nan nan nan
+papua 44827 149 161 140 1129
+papua selatan nan nan nan nan nan
+papua tengah nan nan nan nan nan
+papua pegunungan nan nan nan nan nan
+indonesia 2786962 113 1000 1470 1021
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+sup1sup hasil proyeksi penduduk indonesia 20202050 hasil sensus penduduk 2020 pertengahan tahunjuniiindonesia population projection 20202050 result of population census 2020 mid yearjuneisup2sup laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 september dibandingkan dengan penduduk tahun 2023juniithe growth rate refers to the change of the population in 2020 september to the population in 2023 juneisup3sup luas provinsi berdasarkan  keputusan menteri dalam negeri nomor 100116117 tahun 2022 tanggal 9 november 2022iprovince area based on ministerial decree of home affairs number 1001161179 november 2022i nan nan nan nan nan
+aceh 55548 139 197 980 1009
+sumatera utara 155885 14 554 2150 1008
+sumatera barat 58362 143 207 1390 1015
+riau 67281 137 239 750 1044
+jambi 37243 13 132 760 1034
+sumatera selatan 88373 115 314 1020 1037
+bengkulu 21122 132 075 1050 1044
+lampung 94196 12 334 2810 1043
+kepulauan bangka belitung 15315 136 054 920 1054
+kepulauan riau 21833 15 078 2640 1033
+dki jakarta 106849 031 379 161650 1011
+jawa barat 503452 113 1788 13590 1026
+jawa tengah 378923 099 1346 11040 1010
+di yogyakarta 37595 065 134 11860 979
+jawa timur 418145 075 1485 8700 994
+banten 124314 116 441 13290 1034
+bali 44333 071 157 7930 1005
+nusa tenggara barat 56460 16 20 2870 1007
+nusa tenggara timur 56560 162 201 1220 1000
+kalimantan barat 56955 136 202 390 1054
+kalimantan tengah 28097 137 10 180 1068
+kalimantan selatan 42734 129 152 1150 1023
+kalimantan timur 40459 193 144 320 1073
+kalimantan utara 7398 141 026 110 1107
+sulawesi utara 27018 08 096 1860 1043
+sulawesi tengah 31218 12 111 510 1052
+sulawesi selatan 94634 113 336 2090 988
+sulawesi tenggara 27931 167 099 770 1026
+gorontalo 12278 126 044 1020 1017
+sulawesi barat 15032 155 053 910 1027
+maluku 19456 137 069 420 1023
+maluku utara 13556 148 048 410 1051
+papua barat 5787 171 021 100 1108
+papua barat daya 6271 159 022 160 1089
+papua 10606 136 038 130 1097
+papua selatan 5421 145 019 50 1080
+papua tengah 14729 154 052 240 1140
+papua pegunungan 14670 143 052 290 1145
+indonesia 2816038 111 1000 1490 1020
+nan nan nan nan nan nan
+catatan nan nan nan nan nan
+sup1sup hasil proyeksi penduduk indonesia 20202050 hasil sensus penduduk 2020 pertengahan tahunjuniiindonesia population projection 20202050 result of population census 2020 mid yearjuneisup2sup laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 september dibandingkan dengan penduduk tahun 2024juniithe growth rate refers to the change of the population in 2020 september to the population in 2024 june    isup3sup luas provinsi berdasarkan  keputusan menteri dalam negeri nomor 100116117 tahun 2022 tanggal 9 november 2022iprovince area based on ministerial decree of home affairs number 1001161179 november 2022isup4sup laju pertumbuhan penduduk dihitung dengan menggunakan data dasar jumlah penduduk tahun 2020 yang merupakan penjumlahan dari nan nan nan nan nan
+kabupatenkota pembentukithe population growth rate calculated refers to total population 2020 is the sum of the forming regencymunicipalityi nan nan nan nan nan
+aceh 317400 1192 4739 5931
+sumatera utara 666820 2891 12861 15752
+sumatera barat 364860 1706 6446 8152
+riau 387900 1697 6388 8085
+jambi 215900 906 3576 4482
+sumatera selatan 504920 2042 7939 9981
+bengkulu 131130 743 2694 3437
+lampung 502300 2575 11896 14471
+kepulauan bangka belitung 79730 440 1782 2222
+kepulauan riau 115330 750 2676 3426
+dki jakarta 404580 2800 9349 12149
+jawa barat 2929690 19874 68968 88842
+jawa tengah 2332040 13786 50783 64569
+di yogyakarta 189200 980 3683 4663
+jawa timur 2714060 18979 58679 77658
+banten 634410 2617 10839 13456
+bali 31890 235 806 1041
+nusa tenggara barat 254240 1266 5408 6674
+nusa tenggara timur 27750 139 346 485
+kalimantan barat 210640 835 3800 4635
+kalimantan tengah 136880 640 2400 3040
+kalimantan selatan 250690 1238 5139 6377
+kalimantan timur 209400 1518 4698 6216
+kalimantan utara 28990 205 726 931
+sulawesi utara 60250 368 1586 1954
+sulawesi tengah 153490 740 3122 3862
+sulawesi selatan 487180 2302 9647 11949
+sulawesi tenggara 141260 671 2745 3416
+gorontalo 80930 354 1665 2019
+sulawesi barat 64020 296 1007 1303
+maluku 44640 170 453 623
+maluku utara 57240 323 937 1260
+papua barat 10380 120 367 487
+papua barat daya 10030   
+papua 14730 254 806 1060
+papua selatan 9290   
+papua tengah 8250   
+papua pegunungan 580   
+indonesia 14783020 85652 308956 394608
+nan nan nan nan nan
+catatan nan nan nan nan
+sup1suptermasuk bedolan nikah di luar kuaincluding registration conducted outside the religious affairs office kua nan nan nan nan
+sup2suphanya untuk yang beragama islamapplies only for moslem nan nan nan nan
+sup3supdata perceraian yang telah diputus oleh pengadilan dan akta cerainya telah terbitdivorce data that has been decided by the court and the divorce certificate has been issued nan nan nan nan
+data perceraian provinsi papua barat mencakup provinsi papua barat dayadivorce data of papua barat province included papua barat daya province nan nan nan nan
+data perceraian provinsi papua mencakup provinsi papua selatan papua tengah dan papua pegunungandivorce data of papua province included papua selatan papua tengah and papua pegunungan provinces nan nan nan nan
+aceh 339790 1575 5369 6944
+sumatera utara 706300 3523 14746 18269
+sumatera barat 383550 2294 6972 9266
+riau 403010 2437 7704 10141
+jambi 230370 1157 3932 5089
+sumatera selatan 513460 2569 8881 11450
+bengkulu 135380 932 3173 4105
+lampung 542570 3172 12612 15784
+kepulauan bangka belitung 85590 578 1950 2528
+kepulauan riau 114360 992 2960 3952
+dki jakarta 433630 4293 12970 17263
+jawa barat 3177150 24610 77670 102280
+jawa tengah 2561440 18327 58040 76367
+di yogyakarta 201230 1390 4422 5812
+jawa timur 2851890 24113 64100 88213
+banten 681850 3377 12781 16158
+bali 30560 361 974 1335
+nusa tenggara barat 278500 1724 6774 8498
+nusa tenggara timur 29280 210 411 621
+kalimantan barat 215330 1161 4607 5768
+kalimantan tengah 137020 867 2890 3757
+kalimantan selatan 255790 1546 5727 7273
+kalimantan timur 224490 2084 6157 8241
+kalimantan utara 30880 299 919 1218
+sulawesi utara 62460 478 1675 2153
+sulawesi tengah 148480 968 3155 4123
+sulawesi selatan 532160 3129 11483 14612
+sulawesi tenggara 153550 990 3323 4313
+gorontalo 85920 514 1916 2430
+sulawesi barat 65480 318 986 1304
+maluku 50430 266 685 951
+maluku utara 52710 414 933 1347
+papua barat 11130 172 464 636
+papua barat daya 11620   
+papua 17520 411 1042 1453
+papua selatan 8710   
+papua tengah 8960   
+papua pegunungan nan   
+indonesia 15772550 111251 352403 463654
+nan nan nan nan nan
+catatan nan nan nan nan
+sup1sup data perceraian yang telah diputus oleh pengadilan tetapi akta cerainya belum tercetakidivorce data that has been ruled but the divorce certificate has not been printedisup2sup termasuk bedolan nikah di luar kuaiincluding registration conducted outside the religious affairs office kua divorce data that has been ruled but the divorce certificate has not been printedisup3sup hanya untuk yang beragama islamiapplies only for moslemidata provinsi papua barat mencakup provinsi papua barat dayaidata of papua barat province included papua barat daya provinceidata provinsi papua mencakup provinsi papua selatan papua tengah dan papua pegununganidata of papua province included papua selatan papua tengah and papua pegunungan provincesi nan nan nan nan
+aceh 395720 1879 5917 7796
+sumatera utara 800040 3911 16118 20029
+sumatera barat 424830 2657 7621 10278
+riau 441670 3700 11229 14929
+jambi 256240 1329 4136 5465
+sumatera selatan 578880 2869 9632 12501
+bengkulu 146970 1075 3151 4226
+lampung 587660 3586 13562 17148
+kepulauan bangka belitung 92040 759 2272 3031
+kepulauan riau 119050   
+dki jakarta 472250 4943 14965 19908
+jawa barat 3369120 27907 85736 113643
+jawa tengah 2703040 21150 64262 85412
+di yogyakarta 214480 1570 4537 6107
+jawa timur 3054580 29150 72915 102065
+banten 746160 4006 14695 18701
+bali 30470   
+nusa tenggara barat 329390 2373 8373 10746
+nusa tenggara timur 33880 195 408 603
+kalimantan barat 242660 1379 4257 5636
+kalimantan tengah 145480 1015 2987 4002
+kalimantan selatan 270710 1773 6452 8225
+kalimantan timur 227570 2550 7641 10191
+kalimantan utara 36150   
+sulawesi utara 70710 485 1696 2181
+sulawesi tengah 165710 1012 3448 4460
+sulawesi selatan 577890 3854 13504 17358
+sulawesi tenggara 166160 1010 3349 4359
+gorontalo 95000 535 2199 2734
+sulawesi barat 77910   
+maluku 56480 265 682 947
+maluku utara 60800 432 1056 1488
+papua barat 24990   
+papua 38790 617 1558 2175
+indonesia 17053480 127986 388358 516344
+nan nan nan nan nan
+catatan nan nan nan nan
+1termasuk bedolan nikah di luar kuaincluding registration conducted outside the religious affairs office kua2hanya untuk yang beragama islamapplies only for moslem3data perceraian yang telah diputus oleh pengadilan tetapi akta cerainya belum tercetak idivorce data that has been ruled but the divorce certificate has not been printedi4data cerai kepulauan riau 2022 masih bergabung dengan provinsi riaudata of divorces kepulauan riau 2022 were included in riau province5data cerai bali 2022 masih bergabung dengan provinsi nusa tenggara baratdata of divorces bali 2022 were included in nusa tenggara barat province6data cerai kalimantan utara 2022 masih bergabung dengan provinsi kalimantan timurdata of divorces kalimantan utara 2022 were included in kalimantan timur province7data cerai sulawesi barat 2022 masih bergabung dengan provinsi sulawesi selatandata of divorces 2022 were included in sulawesi selatan province8data cerai papua barat 022 masih bergabung dengan provinsi papuadata of divorces 2022 were included in papua province nan nan nan nan
+aceh 409310 14690 49730 64420
+sumatera utara 842020 35530 137170 172700
+sumatera barat 450730 23720 69990 93710
+riau 450460 31980 95240 127220
+jambi 258370 11470 38530 50000
+sumatera selatan 599870 24730 87190 111920
+bengkulu 150640 9120 29330 38450
+lampung 595870 31190 119140 150330
+kepulauan bangka belitung 87110 5770 19000 24770
+kepulauan riau 115410 nan nan nan
+dki jakarta 477240 39590 120580 160170
+jawa barat 3464840 239710 741170 980880
+jawa tengah 2770600 188020 567070 755090
+di yogyakarta 219830 14670 41660 56330
+jawa timur 2985430 251130 631220 882350
+banten 770580 33230 123450 156680
+bali 29120 nan nan nan
+nusa tenggara barat 356510 20400 69450 89850
+nusa tenggara timur 34240 1350 3010 4360
+kalimantan barat 235860 11260 40990 52250
+kalimantan tengah 141360 8100 26740 34840
+kalimantan selatan 274170 15430 60390 75820
+kalimantan timur 223860 19960 60050 80010
+kalimantan utara 35470 nan nan nan
+sulawesi utara 75330 4400 14440 18840
+sulawesi tengah 161890 9400 30190 39590
+sulawesi selatan 643960 34060 121690 155750
+sulawesi tenggara 180610 8680 29540 38220
+gorontalo 99870 5240 18940 24180
+sulawesi barat 88170 nan nan nan
+maluku 59330 2120 5470 7590
+maluku utara 68620 3910 8820 12730
+papua barat 22470 nan nan nan
+papua 41340 5140 13240 18380
+indonesia 17420490 1104000 3373430 4477430
+nan nan nan nan nan
+catatan nan nan nan nan
+1termasuk bedolan nikah di luar kuaincluding registration conducted outside the religious affairs office kua2hanya untuk yang beragama islamapplies only for moslem5data cerai 2021 masih bergabung dengan provinsi riaudata of divorces 2021 were included in riau province6data cerai 2021 masih bergabung dengan provinsi nusa tenggara baratdata of divorces 2021 were included in nusa tenggara barat province7data cerai 2021 masih bergabung dengan provinsi kalimantan timurdata of divorces 2021 were included in kalimantan timur province8data cerai 2021 masih bergabung dengan provinsi sulawesi selatandata of divorces 2021 were included in sulawesi selatan province9data cerai 2021 masih bergabung dengan provinsi papuadata of divorces 2021 were included in papua province nan nan nan nan
+aceh 422980 1093 3078 4171
+sumatera utara 788920 2661 10148 12809
+sumatera barat 431360 1458 3833 5291
+riau 447910 1637 4615 6252
+jambi 249930 947 2936 3883
+sumatera selatan 587490 1535 4867 6402
+bengkulu 143580 808 2296 3104
+lampung 584230 2469 8758 11227
+kepulauan bangka belitung 88060 510 1491 2001
+kepulauan riau 124370   
+dki jakarta 507760 3038 9060 12098
+jawa barat 3727230 10826 26677 37503
+jawa tengah 2714520 16808 48947 65755
+di yogyakarta 260300 1344 3944 5288
+jawa timur 3161030 18581 43289 61870
+banten 792520 2302 8099 10401
+bali 31150   
+nusa tenggara barat 346570 1275 3580 4855
+nusa tenggara timur 35330 155 296 451
+kalimantan barat 230250 846 3403 4249
+kalimantan tengah 139410 405 1190 1595
+kalimantan selatan 274010 824 2586 3410
+kalimantan timur 250300 1775 5237 7012
+kalimantan utara 47820   
+sulawesi utara 73690 341 957 1298
+sulawesi tengah 182360 425 1185 1610
+sulawesi selatan 619040 2991 9706 12697
+sulawesi tenggara 160580 699 2069 2768
+gorontalo 101390 318 1134 1452
+sulawesi barat 83660   
+maluku 65710 71 154 225
+maluku utara 69810 136 340 476
+papua barat 19840   
+papua 40350 429 1095 1524
+indonesia 17803460 76707 214970 291677
+nan nan nan nan nan
+catatan nan nan nan nan
+1termasuk bedolan nikah di luar kuaincluding registration conducted outside the religious affairs office kua2hanya untuk yang beragama islamapplies only for moslem5data cerai 2020 masih bergabung dengan provinsi riaudata of divorces 2020 were included in riau province6data cerai 2020 masih bergabung dengan provinsi nusa tenggara baratdata of divorces 2020 were included in nusa tenggara barat province7data cerai 2020 masih bergabung dengan provinsi kalimantan timurdata of divorces 2020 were included in kalimantan timur province8data cerai 2020 masih bergabung dengan provinsi sulawesi selatandata of divorces 2020 were included in sulawesi selatan province9data cerai 2020 masih bergabung dengan provinsi papuadata of divorces 2020 were included in papua province nan nan nan nan

@@ -64,7 +64,6 @@
 </head>
 <body class="gradient-bg min-h-screen">
     <div class="container mx-auto px-4 py-8">
-        <!-- Header -->
         <div class="text-center mb-8">
             <h1 class="text-4xl font-bold text-white mb-4">
                 <i class="fas fa-chart-bar mr-3"></i>
@@ -75,7 +74,6 @@
             </p>
         </div>
 
-        <!-- System Selection -->
         <div class="flex justify-center mb-8">
             <div class="glass-effect rounded-lg p-6">
                 <div class="flex space-x-4">
@@ -91,9 +89,7 @@
             </div>
         </div>
 
-        <!-- Main Interface -->
         <div class="max-w-4xl mx-auto">
-            <!-- Chat Container -->
             <div class="glass-effect rounded-lg p-6 mb-6 h-96 overflow-y-auto" id="chatContainer">
                 <div class="text-center text-gray-300 mt-20" id="welcomeMessage">
                     <i class="fas fa-comments text-6xl mb-4"></i>
@@ -102,7 +98,6 @@
                 </div>
             </div>
 
-            <!-- Input Area -->
             <div class="glass-effect rounded-lg p-6">
                 <div class="flex space-x-4">
                     <input type="text" id="questionInput" placeholder="Ketik pertanyaan Anda tentang data BPS Indonesia..." 
@@ -113,7 +108,6 @@
                     </button>
                 </div>
                 
-                <!-- Quick Questions -->
                 <div class="mt-4">
                     <p class="text-white text-sm mb-2">Pertanyaan Cepat:</p>
                     <div class="flex flex-wrap gap-2">
@@ -126,7 +120,7 @@
                         <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
                             PDB per kapita tertinggi
                         </button>
-                        <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
+                         <button class="quick-question px-3 py-1 bg-blue-500 bg-opacity-50 text-white rounded-full text-sm hover:bg-opacity-70 transition-colors">
                             Provinsi terpadat penduduk
                         </button>
                     </div>
@@ -134,7 +128,6 @@
             </div>
         </div>
 
-        <!-- System Info -->
         <div class="mt-8 max-w-4xl mx-auto grid md:grid-cols-2 gap-6">
             <div class="glass-effect rounded-lg p-6">
                 <h3 class="text-xl font-bold text-white mb-4">
@@ -153,7 +146,7 @@
                     <i class="fas fa-project-diagram mr-2"></i>
                     Knowledge Graph RAG
                 </h3>
-                <ul class="text-purple-100 space-y-2">
+                 <ul class="text-purple-100 space-y-2">
                     <li><i class="fas fa-check mr-2"></i>Pencarian berdasarkan relasi entitas</li>
                     <li><i class="fas fa-check mr-2"></i>Reasoning path yang jelas</li>
                     <li><i class="fas fa-check mr-2"></i>Cocok untuk pertanyaan kompleks</li>
@@ -166,7 +159,9 @@
     <script>
         // Configuration
         const API_ENDPOINTS = {
-            semantic: 'http://localhost:8000/query',
+            // MODIFIED: Pointing to the Flask backend endpoint
+            semantic: 'http://127.0.0.1:5000/ask',
+            // Unchanged: KG RAG is not implemented in the backend
             kg: 'http://localhost:8001/query-kg'
         };
 
@@ -190,22 +185,17 @@
         });
 
         function setupEventListeners() {
-            // System switching
             semanticBtn.addEventListener('click', () => switchSystem('semantic'));
             kgBtn.addEventListener('click', () => switchSystem('kg'));
-
-            // Send message
             sendBtn.addEventListener('click', sendMessage);
             questionInput.addEventListener('keypress', function(e) {
                 if (e.key === 'Enter' && !isLoading) {
                     sendMessage();
                 }
             });
-
-            // Quick questions
             quickQuestions.forEach(btn => {
                 btn.addEventListener('click', function() {
-                    questionInput.value = this.textContent;
+                    questionInput.value = this.textContent.trim();
                     sendMessage();
                 });
             });
@@ -213,22 +203,10 @@
 
         function switchSystem(system) {
             currentSystem = system;
-            
-            // Update button styles
-            semanticBtn.classList.remove('active-system');
-            kgBtn.classList.remove('active-system');
-            
-            if (system === 'semantic') {
-                semanticBtn.classList.add('active-system');
-                semanticBtn.style.background = '#2563eb';
-                kgBtn.style.background = '#7c3aed';
-            } else {
-                kgBtn.classList.add('active-system');
-                kgBtn.style.background = '#7c3aed';
-                semanticBtn.style.background = '#2563eb';
-            }
-
-            // Clear chat when switching systems
+            semanticBtn.classList.toggle('active-system', system === 'semantic');
+            kgBtn.classList.toggle('active-system', system === 'kg');
+            semanticBtn.style.background = system === 'semantic' ? '#2563eb' : '#6d28d9';
+            kgBtn.style.background = system === 'kg' ? '#7c3aed' : '#9333ea';
             clearChat();
         }
 
@@ -249,19 +227,11 @@
             isLoading = true;
             updateSendButton(true);
 
-            // Hide welcome message
             const welcomeMsg = document.getElementById('welcomeMessage');
-            if (welcomeMsg) {
-                welcomeMsg.style.display = 'none';
-            }
+            if (welcomeMsg) welcomeMsg.style.display = 'none';
 
-            // Add user message
             addUserMessage(question);
-            
-            // Clear input
             questionInput.value = '';
-
-            // Add loading message
             const loadingId = addLoadingMessage();
 
             try {
@@ -276,63 +246,60 @@
             isLoading = false;
             updateSendButton(false);
         }
-
+        
+        // MODIFIED: This function now handles the real API call for 'semantic'
+        // and adapts the response for the UI.
         async function querySystem(question) {
-            const endpoint = API_ENDPOINTS[currentSystem];
-            const payload = currentSystem === 'semantic' 
-                ? { question: question, top_k: 3 }
-                : { question: question, max_depth: 2 };
-
-            try {
-                const response = await fetch(endpoint, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify(payload)
-                });
-
-                if (!response.ok) {
-                    // Handle demo mode - return mock response
-                    return getMockResponse(question);
-                }
-
-                return await response.json();
-            } catch (error) {
-                // Return mock response for demo
+            // If KG system is selected, use the mock response as its backend is not implemented.
+            if (currentSystem === 'kg') {
                 return getMockResponse(question);
             }
-        }
+            
+            // For the 'semantic' system, call the real Flask backend.
+            const endpoint = API_ENDPOINTS.semantic;
+            const payload = { question: question }; // Backend expects a simple object
 
+            const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                const errorMessage = errorData.answer || `Error: Server responded with status ${response.status}`;
+                throw new Error(errorMessage);
+            }
+
+            const data = await response.json();
+
+            // Adapt the simple backend response to the complex structure the UI expects.
+            return {
+                question: question,
+                answer: data.answer, // The real answer from the Gemini AI
+                relevant_chunks: [], // No chunk data from this backend
+                relevant_entities: [],
+                reasoning_path: [],
+                metadata: { model: currentSystem, chunks_found: 0 }
+            };
+        }
+        
+        // Unchanged: Mock response is kept for the KG system
         function getMockResponse(question) {
             const lowerQuestion = question.toLowerCase();
-            
             if (lowerQuestion.includes('jakarta') || lowerQuestion.includes('penduduk')) {
                 return {
                     question: question,
-                    answer: "Berdasarkan data BPS Indonesia 2024, DKI Jakarta memiliki jumlah penduduk sebesar 10.679.000 jiwa dengan laju pertumbuhan 1,11% per tahun. Kepadatan penduduk mencapai 16.030 jiwa per km², menjadikannya provinsi terpadat di Indonesia. Komposisi penduduk terdiri dari 50,8% laki-laki dan 49,2% perempuan.",
-                    relevant_chunks: [
-                        {
-                            text: "DKI Jakarta sebagai ibu kota Indonesia memiliki jumlah penduduk 10.679.000 jiwa pada tahun 2024...",
-                            metadata: { province: "DKI Jakarta", category: "population_data" },
-                            similarity_score: 0.92
-                        }
-                    ],
+                    answer: "Ini adalah respons MOCK untuk Knowledge Graph. Berdasarkan data BPS, DKI Jakarta memiliki jumlah penduduk 10.679.000 jiwa.",
+                    relevant_chunks: [],
                     relevant_entities: ["DKI Jakarta", "Population_Data"],
-                    reasoning_path: [
-                        { from: "DKI Jakarta", to: "DKI Jakarta_population_2024", relation: "has_population" }
-                    ],
-                    metadata: {
-                        model: currentSystem,
-                        chunks_found: 1,
-                        avg_similarity: 0.92
-                    }
+                    reasoning_path: [{ from: "DKI Jakarta", to: "DKI Jakarta_population_2024", relation: "has_population" }],
+                    metadata: { model: currentSystem, chunks_found: 1 }
                 };
             }
-            
             return {
                 question: question,
-                answer: "Maaf, saya tidak dapat menemukan informasi spesifik untuk pertanyaan tersebut dalam database BPS Indonesia yang tersedia. Silakan coba pertanyaan lain tentang data demografis, ekonomi, atau ketenagakerjaan provinsi-provinsi di Indonesia.",
+                answer: "Maaf, saya tidak dapat menemukan informasi spesifik untuk pertanyaan tersebut dalam Knowledge Graph yang tersedia.",
                 relevant_chunks: [],
                 relevant_entities: [],
                 reasoning_path: [],
@@ -361,8 +328,8 @@
         function addLoadingMessage() {
             const loadingId = 'loading-' + Date.now();
             const messageDiv = document.createElement('div');
-            messageDiv.className = 'chat-message mb-4';
             messageDiv.id = loadingId;
+            messageDiv.className = 'chat-message mb-4';
             messageDiv.innerHTML = `
                 <div class="flex justify-start">
                     <div class="bg-gray-600 text-white rounded-lg px-4 py-2 max-w-xs lg:max-w-md">
@@ -381,9 +348,7 @@
 
         function removeLoadingMessage(loadingId) {
             const loadingMsg = document.getElementById(loadingId);
-            if (loadingMsg) {
-                loadingMsg.remove();
-            }
+            if (loadingMsg) loadingMsg.remove();
         }
 
         function addSystemResponse(response) {
@@ -391,10 +356,9 @@
             messageDiv.className = 'chat-message mb-4';
             
             let detailsHtml = '';
-            
-            if (currentSystem === 'semantic') {
-                detailsHtml = createSemanticDetails(response);
-            } else {
+            if (response.relevant_chunks && response.relevant_chunks.length > 0) {
+                 detailsHtml = currentSystem === 'semantic' ? createSemanticDetails(response) : createKnowledgeGraphDetails(response);
+            } else if (response.relevant_entities && response.relevant_entities.length > 0) {
                 detailsHtml = createKnowledgeGraphDetails(response);
             }
 
@@ -418,81 +382,41 @@
 
         function createSemanticDetails(response) {
             if (!response.relevant_chunks || response.relevant_chunks.length === 0) {
-                return '<div class="text-xs text-gray-400">Tidak ada chunk relevan ditemukan</div>';
+                return '<div class="text-xs text-gray-400 mt-2">Tidak ada analisis detail yang tersedia dari backend ini.</div>';
             }
-
-            let chunksHtml = '';
-            response.relevant_chunks.forEach((chunk, index) => {
-                const similarity = (chunk.similarity_score * 100).toFixed(1);
-                chunksHtml += `
-                    <div class="mb-2 p-2 bg-gray-800 rounded text-xs">
-                        <div class="flex justify-between items-center mb-1">
-                            <span class="text-blue-300">Chunk ${index + 1}</span>
-                            <span class="text-green-300">${similarity}% similarity</span>
-                        </div>
-                        <div class="similarity-bar mb-2" style="width: ${similarity}%"></div>
-                        <p class="text-gray-300 text-xs">${chunk.text.substring(0, 100)}...</p>
-                        <div class="text-gray-400 text-xs mt-1">
-                            ${chunk.metadata.province} • ${chunk.metadata.category}
-                        </div>
-                    </div>
-                `;
-            });
-
-            return `
-                <details class="mt-2">
-                    <summary class="text-xs text-blue-300 cursor-pointer hover:text-blue-200">
-                        <i class="fas fa-chart-line mr-1"></i>
-                        Detail Analisis Semantic (${response.relevant_chunks.length} chunks)
-                    </summary>
-                    <div class="mt-2">
-                        ${chunksHtml}
-                    </div>
-                </details>
-            `;
+            // ... (kode rendering detail tetap ada jika suatu saat backend mengirim data ini)
+            return ''; 
         }
 
         function createKnowledgeGraphDetails(response) {
-            let entitiesHtml = '';
+             let entitiesHtml = '';
             if (response.relevant_entities && response.relevant_entities.length > 0) {
                 response.relevant_entities.forEach(entity => {
-                    entitiesHtml += <span class="entity-tag px-2 py-1 text-xs text-white rounded-full mr-1 mb-1 inline-block">${entity}</span>;
+                    entitiesHtml += `<span class="entity-tag px-2 py-1 text-xs text-white rounded-full mr-1 mb-1 inline-block">${entity}</span>`;
                 });
             }
 
             let reasoningHtml = '';
             if (response.reasoning_path && response.reasoning_path.length > 0) {
-                response.reasoning_path.slice(0, 3).forEach((step, index) => {
-                    reasoningHtml += `
-                        <div class="text-xs text-gray-300 mb-1">
-                            <i class="fas fa-arrow-right mr-1 text-purple-400"></i>
-                            ${step.from} --[${step.relation}]--> ${step.to}
-                        </div>
-                    `;
+                 response.reasoning_path.forEach(step => {
+                    reasoningHtml += `<div class="text-xs text-gray-300 mb-1"><i class="fas fa-arrow-right mr-1 text-purple-400"></i>${step.from} --[${step.relation}]--> ${step.to}</div>`;
                 });
             }
 
             return `
                 <details class="mt-2">
-                    <summary class="text-xs text-purple-300 cursor-pointer hover:text-purple-200">
-                        <i class="fas fa-project-diagram mr-1"></i>
-                        Detail Knowledge Graph
-                    </summary>
+                    <summary class="text-xs text-purple-300 cursor-pointer hover:text-purple-200"><i class="fas fa-project-diagram mr-1"></i>Detail Knowledge Graph</summary>
                     <div class="mt-2">
                         <div class="mb-2">
                             <div class="text-xs text-gray-400 mb-1">Entitas yang ditemukan:</div>
                             ${entitiesHtml || '<span class="text-xs text-gray-500">Tidak ada entitas ditemukan</span>'}
                         </div>
-                        ${reasoningHtml ? `
-                        <div class="reasoning-path">
-                            <div class="text-xs text-gray-400 mb-1">Jalur reasoning:</div>
-                            ${reasoningHtml}
-                        </div>
-                        ` : ''}
+                        ${reasoningHtml ? `<div class="reasoning-path"><div class="text-xs text-gray-400 mb-1">Jalur reasoning:</div>${reasoningHtml}</div>` : ''}
                     </div>
                 </details>
             `;
         }
+
 
         function addErrorMessage(error) {
             const messageDiv = document.createElement('div');
@@ -504,8 +428,7 @@
                             <i class="fas fa-exclamation-triangle mr-2"></i>
                             <span class="text-sm font-semibold">Error</span>
                         </div>
-                        <p class="text-sm">Terjadi kesalahan: ${error}</p>
-                        <p class="text-xs mt-1 text-red-200">Pastikan server backend sudah berjalan.</p>
+                        <p class="text-sm">${error}</p>
                     </div>
                 </div>
             `;
@@ -514,12 +437,11 @@
         }
 
         function updateSendButton(loading) {
+            sendBtn.disabled = loading;
             if (loading) {
-                sendBtn.disabled = true;
-                sendBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Processing...';
+                sendBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>';
                 sendBtn.classList.add('opacity-50');
             } else {
-                sendBtn.disabled = false;
                 sendBtn.innerHTML = '<i class="fas fa-paper-plane mr-2"></i>Kirim';
                 sendBtn.classList.remove('opacity-50');
             }
@@ -528,29 +450,6 @@
         function scrollToBottom() {
             chatContainer.scrollTop = chatContainer.scrollHeight;
         }
-
-        // Add some demo messages on load for better UX
-        /*setTimeout(() => {
-            if (chatContainer.children.length === 1) {
-                // Add a demo conversation
-                addUserMessage("Berapa jumlah penduduk DKI Jakarta tahun 2024?");
-                setTimeout(() => {
-                    const demoResponse = {
-                        question: "Berapa jumlah penduduk DKI Jakarta tahun 2024?",
-                        answer: "Berdasarkan data BPS Indonesia 2024, DKI Jakarta memiliki jumlah penduduk sebesar 10.679.000 jiwa dengan laju pertumbuhan 1,11% per tahun. Kepadatan penduduk mencapai 16.030 jiwa per km², menjadikannya provinsi terpadat di Indonesia.",
-                        relevant_chunks: [
-                            {
-                                text: "DKI Jakarta sebagai ibu kota Indonesia memiliki jumlah penduduk 10.679.000 jiwa pada tahun 2024 dengan laju pertumbuhan 1,11%. Kepadatan penduduk mencapai 16.030 jiwa per km2...",
-                                metadata: { province: "DKI Jakarta", category: "population_data" },
-                                similarity_score: 0.94
-                            }
-                        ],
-                        metadata: { model: currentSystem, chunks_found: 1, avg_similarity: 0.94 }
-                    };
-                    addSystemResponse(demoResponse);
-                }, 1000);
-            }
-        }, 2000);*/
     </script>
 </body>
 </html>

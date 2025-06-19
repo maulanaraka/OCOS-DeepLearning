@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPS Knowledge Graph RAG</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        .query-section {
+            margin-bottom: 30px;
+        }
+        textarea {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 16px;
+            resize: vertical;
+            min-height: 80px;
+            transition: border-color 0.3s;
+        }
+        textarea:focus {
+            outline: none;
+            border-color: #74b9ff;
+        }
+        button {
+            background: linear-gradient(45deg, #74b9ff, #0984e3);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 10px;
+            transition: transform 0.2s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .result-section {
+            margin-top: 30px;
+        }
+        .answer-box {
+            background: #f0f8ff;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #74b9ff;
+            margin-bottom: 20px;
+        }
+        .explanation-box {
+            background: #fff5f0;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #ff7675;
+            margin-bottom: 20px;
+        }
+        .entities-box {
+            background: #f0fff0;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #00b894;
+            margin-bottom: 20px;
+        }
+        .relationships-box {
+            background: #fff0f8;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #fd79a8;
+        }
+        .entity-tag {
+            display: inline-block;
+            background: #00b894;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 15px;
+            margin: 5px;
+            font-size: 14px;
+        }
+        .relationship {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border: 1px solid #eee;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .relationship-arrow {
+            color: #fd79a8;
+            font-weight: bold;
+            margin: 0 10px;
+        }
+        .attributes {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+            font-style: italic;
+        }
+        .loading {
+            text-align: center;
+            color: #74b9ff;
+            font-style: italic;
+        }
+        .error {
+            background: #fed7d7;
+            color: #c53030;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .stats-section {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🕸️ BPS Knowledge Graph RAG</h1>
+        <p style="text-align: center; color: #666; margin-bottom: 30px;">
+            Eksplorasi data BPS menggunakan Knowledge Graph dan Ontology
+        </p>
+        
+        <div class="stats-section" id="statsSection">
+            <span id="graphStats">Loading graph statistics...</span>
+        </div>
+        
+        <div class="query-section">
+            <textarea 
+                id="questionInput" 
+                placeholder="Contoh: Bagaimana hubungan antara inflasi dan IHK? Atau: Jelaskan kondisi ekonomi Indonesia berdasarkan indikator utama"
+            ></textarea>
+            <br>
+            <button onclick="submitKGQuery()" id="submitBtn">🔍 Analisis dengan KG</button>
+        </div>
+        
+        <div id="results" class="result-section" style="display: none;">
+            <h3>💡 Jawaban:</h3>
+            <div id="answer" class="answer-box"></div>
+            
+            <h3>🧠 Penjelasan Knowledge Graph:</h3>
+            <div id="explanation" class="explanation-box"></div>
+            
+            <h3>🏷️ Entities yang Relevan:</h3>
+            <div id="entities" class="entities-box"></div>
+            
+            <h3>🔗 Relationships dalam Knowledge Graph:</h3>
+            <div id="relationships" class="relationships-box"></div>
+        </div>
+        
+        <div id="loading" class="loading" style="display: none;">
+            ⏳ Sedang menganalisis dengan Knowledge Graph...
+        </div>
+        
+        <div id="error" class="error" style="display: none;"></div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8001';
+        
+        // Load graph statistics on page load
+        async function loadGraphStats() {
+            try {
+                const response = await fetch(`${API_BASE}/graph-stats`);
+                const stats = await response.json();
+                document.getElementById('graphStats').innerHTML = 
+                    `📊 Knowledge Graph: ${stats.nodes} nodes, ${stats.edges} edges | 🏷️ Entities: ${stats.entities.length}`;
+            } catch (error) {
+                document.getElementById('graphStats').textContent = 'Graph statistics unavailable';
+            }
+        }
+        
+        async function submitKGQuery() {
+            const question = document.getElementById('questionInput').value.trim();
+            if (!question) {
+                alert('Silakan masukkan pertanyaan terlebih dahulu');
+                return;
+            }
+            
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('error').style.display = 'none';
+            document.getElementById('submitBtn').disabled = true;
+            
+            try {
+                const response = await fetch(`${API_BASE}/query-kg`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ question: question })
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                displayKGResults(data);
+                
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('error').textContent = `Error: ${error.message}`;
+                document.getElementById('error').style.display = 'block';
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('submitBtn').disabled = false;
+            }
+        }
+        
+        function displayKGResults(data) {
+            // Display answer
+            document.getElementById('answer').textContent = data.answer;
+            
+            // Display explanation
+            document.getElementById('explanation').textContent = data.explanation;
+            
+            // Display entities
+            const entitiesContainer = document.getElementById('entities');
+            entitiesContainer.innerHTML = '';
+            data.relevant_entities.forEach(entity => {
+                const entityTag = document.createElement('span');
+                entityTag.className = 'entity-tag';
+                entityTag.textContent = entity;
+                entitiesContainer.appendChild(entityTag);
+            });
+            
+            // Display relationships
+            const relationshipsContainer = document.getElementById('relationships');
+            relationshipsContainer.innerHTML = '';
+            
+            if (data.relationships.length === 0) {
+                relationshipsContainer.innerHTML = '<p>Tidak ada relationships yang ditemukan.</p>';
+            } else {
+                data.relationships.forEach((rel, index) => {
+                    const relDiv = document.createElement('div');
+                    relDiv.className = 'relationship';
+                    
+                    let attributesText = '';
+                    if (rel.attributes && Object.keys(rel.attributes).length > 0) {
+                        const attrs = Object.entries(rel.attributes)
+                            .map(([key, value]) => `${key}: ${value}`)
+                            .join(', ');
+                        attributesText = `<div class="attributes">${attrs}</div>`;
+                    }
+                    
+                    relDiv.innerHTML = `
+                        <strong>${rel.source}</strong>
+                        <span class="relationship-arrow">--[${rel.relation}]--></span>
+                        <strong>${rel.target}</strong>
+                        ${attributesText}
+                    `;
+                    relationshipsContainer.appendChild(relDiv);
+                });
+            }
+            
+            document.getElementById('results').style.display = 'block';
+        }
+        
+        // Handle Enter key
+        document.getElementById('questionInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                submitKGQuery();
+            }
+        });
+        
+        // Load stats when page loads
+        window.addEventListener('load', loadGraphStats);
+    </script>
+</body>
+</html>

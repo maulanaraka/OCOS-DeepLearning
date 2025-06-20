@@ -140,6 +140,7 @@
             text-align: center;
         }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -155,7 +156,7 @@
         <div class="query-section">
             <textarea 
                 id="questionInput" 
-                placeholder="Contoh: Bagaimana hubungan antara inflasi dan IHK? Atau: Jelaskan kondisi ekonomi Indonesia berdasarkan indikator utama"
+                placeholder="Contoh: Pertumbuhan Penduduk Jawa Barart tahun 2020 sampai 2023"
             ></textarea>
             <br>
             <button onclick="submitKGQuery()" id="submitBtn">🔍 Analisis dengan KG</button>
@@ -238,10 +239,10 @@
         
         function displayKGResults(data) {
             // Display answer
-            document.getElementById('answer').textContent = data.answer;
+            document.getElementById('answer').innerHTML = marked.parse(data.answer);
             
             // Display explanation
-            document.getElementById('explanation').textContent = data.explanation;
+            document.getElementById('explanation').innerHTML = marked.parse(data.explanation);
             
             // Display entities
             const entitiesContainer = document.getElementById('entities');

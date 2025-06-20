@@ -83,12 +83,6 @@ bps.txt           # Your BPS data file
 
 ## 10. Sample Questions to Test:
 
-### For Semantic RAG:
-- "Berapa tingkat inflasi Indonesia saat ini?"
-- "Bagaimana kondisi pengangguran di Indonesia?"
-- "Berapa nilai ekspor Indonesia?"
-
-### For Knowledge Graph RAG:
-- "Bagaimana hubungan antara inflasi dan IHK?"
-- "Jelaskan indikator ekonomi utama Indonesia"
-- "Apa saja yang mempengaruhi PDB Indonesia?"
+- "Pertumbuhan penduduk Indonesia di tahun 2024"
+- "Perbandingan jumlah penduduk jawa timur dan jawa barat terhadap seluruh indonesia per tahun"
+- "Persentase perceraian di DKI Jakarta terhadap perceraian di seluruh indonesia per tahun"

@@ -46,3 +46,9 @@ import pickle
 import os
 from typing import List, Dict, Any
 import asyncio
+
+
+pip install fastapi
+pip install uvicorn
+pip install google-generativeai
+pip install networkx

@@ -299,7 +299,7 @@ class KnowledgeGraphRAG:
         {kg_context}
         
         Data mentah pendukung:
-        {self.raw_data[:1500]}
+        {self.raw_data}
         
         Pertanyaan: {question}
         
@@ -375,7 +375,7 @@ async def lifespan(app: FastAPI):
     """Manage application lifespan"""
     # Startup
     print("Initializing BPS Knowledge Graph RAG...")
-    kg_rag_system.load_data("F:/smstr 8/Pengantar Deep Learning/OCOS-DeepLearning/bps_rag_project/bps_faiss_texts.txt")
+    kg_rag_system.load_data("bps_faiss_texts.txt")
     kg_rag_system.extract_entities_and_relationships()
     print("Knowledge Graph RAG system ready!")
     yield
